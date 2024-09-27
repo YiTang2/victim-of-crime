@@ -1,12 +1,13 @@
 ---
 title: "Analyzing Victimology: A Statistical Overview of Crime Victims in Toronto"
-subtitle: "My subtitle if needed"
 author: Yi Tang
 thanks: "Code and data are available at: https://github.com/YiTang2/victim-of-crime.git."
 date: September 27, 2024
 date-format: long
 abstract: "The data analyzes the annual statistical report with crime victims in Toronto Police Service from 2019 to 2023, including types of falling victim, different age groups of victims, victim counts and trends over five-year. These findings highlight the necessity of targeted interventions and policy adjustments to address the specific needs of the most impacted groups. Ultimately, this paper underscores the importance of demographic-focused crime analysis in enhancing public safety and tailoring preventative strategies in urban environments.By analyzing these data, it lets law enforcement and policymakers concern about the victims and other vulnerable population. Similarly, safter society is what everyones wants."
 format: pdf
+toc: true
+toc-depth: 3
 number-sections: true
 bibliography: references.bib
 ---
@@ -23,19 +24,24 @@ library(tidyr)
 
 ```
 
+\newpage
 
 # Introduction
-This paper is going to analyze crime victim datas in the Toronto Police Service from 2014 to 2023. The dataset includes the period of happening, the crime subtype of victim, sex, age group and the total victim counts over years.We use @citeR to write code and plot many graphs for direct and straightforward analyzing about the victim of crime. Also we utilize several key R packages from @citetidyverse, including @citeggplot2 for visualization, @citedplyr for data manipulation and @citetidyr for data cleaning. The data and paper orgainization and structure was given by @rohan. And telling Stories with Data by @alexander2023telling provides detailed fundamental code steps and manipulation to make analytical workflow more manageable. 
+This paper is going to analyze crime victim datas in the Toronto Police Service from 2014 to 2023. The dataset includes the period of happening, the crime subtype of victim, sex, age group and the total victim counts over years.We use R @citeR to write code and plot many graphs for direct and straightforward analyzing about the victim of crime. Also we utilize several key R packages from tidyverse[@citetidyverse], including ggplot2[@citeggplot2] for visualization, dplyr [@citedplyr] for data manipulation and @citetidyr for data cleaning. The data and paper orgainization and structure was given by @rohan. And telling Stories with Data by @alexander2023telling provides detailed fundamental code steps and manipulation to make analytical workflow more manageable. 
 
-All graphs and analyses showed in this paper are based on the crime victim dataset which will present in @sec-data. These datasets are found from @citeopendatatoronto.
+The issue of crime the count of victims is a topic worthy of attention, especially in urban areas like Toronto. Understanding the patterns and characteristics of crime victims helps connect public safety strategies and policymaking with. This paper focuses on analyzing crime victim data provided by the Toronto Police Service from 2014 to 2023. The dataset includes information such as the reported year, crime subtype, sex, age group, and the total number of victims. This research aims to explore the trends in victimization, the distribution of different crime subtypes, and demographic factors such as gender and age group to provide insights into which populations are most vulnerable.
 
-Through the investigation of victims of crime, we should pay more attention to more variables, such as the threats to different age groups and genders, and then take measures accordingly.
+In the process of analysis, this paper found that adult males are disproportionately affected by crimes like assault and robbery, while females are more likely to be victims of sexual violations. It was also found that there are significant shifts in victim counts over time, with a obvious falling during the COVID-19 pandemic in 2020. Then there is a sudden increasing in the later year. These findings are critical because they highlight the importance of targeted interventions for specific groups and point to broader societal issues.
+
+The paper is structured as follows in @sec-data: first, a detailed introduction of the dataset used; second, an exploration of crime trends over the years and how they correlate with different demographic variables; third, visual representations of the data to offer a clear understanding of these trends; and finally, conclusions and recommendations for public safety policies.
+
 
 
 
 
 # Data {#sec-data}
 
+These datasets are sourced from the Toronto Police Service's open data platform, @citeopendatatoronto, and provide detailed annual reports on crime victims in the city. The data includes variables such as crime subtype, sex, age group, and report year, with all personal information protected under the Municipal Freedom of Information and Protection of Privacy Act. For this paper, the data from 2014 to 2023 was selected, cleaned, and processed using R packages like `dplyr`[@citedplyr].
 
 ```{r}
 #| label: fig-crime-victims
@@ -152,12 +158,15 @@ ggplot(age_group_trends, aes(x = report_year, y = total_victims, fill = age_grou
 
 
 ```
-
 \newpage
 
 This @fig-age-group-trends-victims-toronto shows that from 2014 to 2023, adults accounted for the majority of crime victims, with the annual number of adult victims remaining largely constant at 20,000–25,000. This suggests that adults are the most vulnerable demographic over time. The number of victims who are children and young people, on the other hand, is far lower and does not appear to be rising with time. This could be as a result of the likelihood that kids and young adults are in safe spaces, like schools or homes with parental supervision, which lowers their exposure to crime. In conclusion, the total victims don't have a obvious increasing trend, which can also tell that the supervision today can effectively restrict the victimization.
 
 \newpage
+
+# Appendix
+
+This code first cleans and standardizes the column names in the raw dataset by using the janitor::clean_names() function, ensuring consistent naming conventions. It then selects the key variables report_year, subtype, sex, age_group, and count to focus the analysis on relevant data. The sex variable is recoded for readability, converting "M" to "Male," "F" to "Female," and "U" to "Unsure." Additionally, the subtype column is renamed to crime_subtype for clarity. Finally, the code removes any rows with missing values using tidyr::drop_na() to ensure the dataset is clean and ready for analysis.
 
 
 # References
