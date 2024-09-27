@@ -1,13 +1,11 @@
 ---
-title: "My title"
+title: "Analyzing Victimology: A Statistical Overview of Crime Victims in Toronto"
 subtitle: "My subtitle if needed"
-author: 
-  - First author
-  - Another author
-thanks: "Code and data are available at: LINK."
-date: today
+author: Yi Tang
+thanks: "Code and data are available at: https://github.com/YiTang2/victim-of-crime.git."
+date: September 27, 2024
 date-format: long
-abstract: "First sentence. Second sentence. Third sentence. Fourth sentence."
+abstract: "The data analyzes the annual statistical report with crime victims in Toronto Police Service from 2019 to 2023, including types of falling victim, different age groups of victims, victim counts and trends over five-year. These findings highlight the necessity of targeted interventions and policy adjustments to address the specific needs of the most impacted groups. Ultimately, this paper underscores the importance of demographic-focused crime analysis in enhancing public safety and tailoring preventative strategies in urban environments.By analyzing these data, it lets law enforcement and policymakers concern about the victims and other vulnerable population. Similarly, safter society is what everyones wants."
 format: pdf
 number-sections: true
 bibliography: references.bib
@@ -19,199 +17,145 @@ bibliography: references.bib
 #| message: false
 
 library(tidyverse)
-library(palmerpenguins)
+library(ggplot2)
+library(dplyr)
+library(tidyr)
+
 ```
 
 
 # Introduction
+This paper is going to analyze crime victim datas in the Toronto Police Service from 2014 to 2023. The dataset includes the period of happening, the crime subtype of victim, sex, age group and the total victim counts over years.We use @citeR to write code and plot many graphs for direct and straightforward analyzing about the victim of crime. Also we utilize several key R packages from @citetidyverse, including @citeggplot2 for visualization, @citedplyr for data manipulation and @citetidyr for data cleaning. The data and paper orgainization and structure was given by @rohan. And telling Stories with Data by @alexander2023telling provides detailed fundamental code steps and manipulation to make analytical workflow more manageable. 
 
-You can and should cross-reference sections and sub-sections. We use @citeR and @rohan.
+All graphs and analyses showed in this paper are based on the crime victim dataset which will present in @sec-data. These datasets are found from @citeopendatatoronto.
 
-The remainder of this paper is structured as follows. @sec-data....
+Through the investigation of victims of crime, we should pay more attention to more variables, such as the threats to different age groups and genders, and then take measures accordingly.
+
 
 
 
 # Data {#sec-data}
 
-Some of our data is of penguins (@fig-bills), from @palmerpenguins.
 
 ```{r}
-#| label: fig-bills
-#| fig-cap: Bills of penguins
-#| echo: false
-
-ggplot(penguins, aes(x = island, fill = species)) +
-  geom_bar(alpha = 0.8) +
-  scale_fill_manual(values = c("darkorange","purple","cyan4"),
-                    guide = "none") +
-  theme_minimal() +
-  facet_wrap(~species, ncol = 1) +
-  coord_flip()
-```
-
-Talk more about it.
-
-And also planes (@fig-planes). (You can change the height and width, but don't worry about doing that until you have finished every other aspect of the paper - Quarto will try to make it look nice and the defaults usually work well once you have enough text.)
-
-```{r}
-#| label: fig-planes
-#| fig-cap: Relationship between wing length and width
+#| label: fig-crime-victims
+#| fig-cap: Annual trend of crime victims in Toronto from 2014 to 2023
 #| echo: false
 #| warning: false
 #| message: false
 
-analysis_data <- read_csv(here::here("data/analysis_data/analysis_data.csv"))
+data <- read_csv(here::here("data","analysis_data","analysis_data.csv"))
 
-analysis_data |> 
-  ggplot(aes(x = width, y = length)) +
-  geom_point(alpha = 0.8) +
-  theme_minimal() +
-  labs(x = "Wing width (mm)",
-       y = "Wing length (mm)")
+yearly_data <- data %>%
+  group_by(report_year) %>%
+  summarise(total_victims = sum(count, na.rm = TRUE))
+
+# Plotting the line graph
+ggplot(yearly_data, aes(x = report_year, y = total_victims)) + 
+  geom_line(color = "steelblue", size = 1.5) +
+  geom_point(color = "darkblue", size = 3) +
+  labs(x = "Year",
+       y = "Total Victims") +
+  theme_minimal()
 ```
-
-Talk way more about it. 
-
-
-
-# Model
-
-The goal of our modelling strategy is twofold. Firstly,...
-
-Here we briefly describe the Bayesian analysis model used to investigate... Background details and diagnostics are included in [Appendix -@sec-model-details].
-
-## Model set-up
-
-Define $y_i$ as the number of seconds that the plane remained aloft. Then $\beta_i$ is the wing width and $\gamma_i$ is the wing length, both measured in millimeters.  
-
-\begin{align} 
-y_i|\mu_i, \sigma &\sim \mbox{Normal}(\mu_i, \sigma) \\
-\mu_i &= \alpha + \beta_i + \gamma_i\\
-\alpha &\sim \mbox{Normal}(0, 2.5) \\
-\beta &\sim \mbox{Normal}(0, 2.5) \\
-\gamma &\sim \mbox{Normal}(0, 2.5) \\
-\sigma &\sim \mbox{Exponential}(1)
-\end{align}
-
-We run the model in R [@citeR] using the `rstanarm` package of @rstanarm. We use the default priors from `rstanarm`.
-
-
-### Model justification
-
-We expect a positive relationship between the size of the wings and time spent aloft. In particular...
-
-We can use maths by including latex between dollar signs, for instance $\theta$.
-
-
-# Results
-
-Our results are summarized in @tbl-modelresults.
+This @fig-crime-victims illustrates the trend of crime victims in Toronto from 2014 to 2023, showing a fluctuating  and increasing trend in the total number of recorded victims per year. According to the data, there was a progressive increase from 2014 to 2018, and then a little fall in 2019. But it has began to increase again from year 2020. In 2020, the COVID-19 sweeping every country and it makes people's lives and movements very inconvenient. So, this is the reason that there is large fall in 2020. But now that people have lifted the virus crisis and are beginning to move freely again, this has also led to a continued increase in victims.
 
 ```{r}
+#| label: fig-crime-subtypes
+#| fig-cap: Distribution of Crime Subtypes in Toronto (2014-2023)
 #| echo: false
-#| eval: true
 #| warning: false
 #| message: false
 
-library(rstanarm)
 
-first_model <-
-  readRDS(file = here::here("models/first_model.rds"))
+ggplot(data, aes(x = crime_subtype)) + 
+  geom_bar(fill = "steelblue", color = "black") +
+  labs(x = "Crime Subtype",
+       y = "Count of Cases") +
+  theme_minimal()
 ```
+\newpage
+
+From @fig-crime-subtypes, we can see that assault is the most frequently reported crime subtype, significantly outnumbering instances of robbery, sexual violation, and other crimes. This highlights a specific vulnerability to assaults within the community. Robbery and sexual violation appear with comparable frequency, suggesting targeted interventions might be necessary. The substantial count of crimes classified as "other" indicates a diverse crime landscape that could benefit from varied prevention strategies and robust law enforcement responses.
+
 
 ```{r}
+#| label: fig-gender-crime-comparison-toronto
+#| fig-cap: Comparative Analysis of Crime Victims by Gender and Crime Type in Toronto (2014-2023)
 #| echo: false
-#| eval: true
-#| label: tbl-modelresults
-#| tbl-cap: "Explanatory models of flight time based on wing width and wing length"
 #| warning: false
+#| message: false
 
-modelsummary::modelsummary(
-  list(
-    "First model" = first_model
-  ),
-  statistic = "mad",
-  fmt = 2
-)
+# Summarize data to get total victims per crime type and gender
+gender_crime_type_data <- data %>%
+  group_by(crime_subtype, sex) %>%
+  summarise(total_victims = sum(count, na.rm = TRUE), .groups = 'drop')
+
+# Plotting the clustered bar chart
+ggplot(gender_crime_type_data, aes(x = crime_subtype, y = total_victims, fill = sex)) +
+  geom_bar(stat = "identity", position = position_dodge(), width = 0.7) +
+  labs(x = "Crime Type",
+       y = "Total Victims",
+       fill = "Gender") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
+
 ```
+\newpage
+
+Based on the observation we analyzed before, which is assault is the most prevalent crime subtype, @fig-gender-crime-comparison-toronto further amplify the count of different gender during each crimes. Specifically, male victims are consistently higher in number than female victims across most crime categories, particularly for assault. Moreover, we can find that assault and robbery are the only two crime subtypes where males are more likely to be victimized than females. Then, most situation help explain the reason, which is mens have a higher exposure to environments and social behaviors. But in contrast, women have the unfair treat with power imbalances and vulnerability in public situations. This indicates government should make special strategies to figure out the different risks faced by men and women.
+
+```{r}
+#| label: fig-victim-demographics-toronto
+#| fig-cap: Distribution of Crime Victims by Age Group and Gender in Toronto (2014-2023)
+#| echo: false
+#| warning: false
+#| message: false
 
 
 
+ggplot(data, aes(x = "", y = count, fill = interaction(age_group, sex))) +
+  geom_bar(stat = "identity", width = 1) +
+  coord_polar("y", start = 0) +
+  labs(x = "", y = "Total Victims", fill = "Age Group & Sex") +
+  theme_minimal() +
+  theme(axis.text.x = element_blank(),  # Hide the x-axis labels
+        axis.ticks = element_blank(),   # Hide the x-axis ticks
+        panel.grid = element_blank(),   # Hide the grid
+        axis.title.y = element_blank())  # Hide the y-axis label
 
-# Discussion
+```   
+\newpage
 
-## First discussion point {#sec-first-point}
+We have known male victimization are the larger group than female on assault and robbery from graph above. I want to explore the victimization of different age groups within the male and female groups. From @fig-victim-demographics-toronto, adult males and adult females have the largest portion in this pie chart. This suggests that adults, especially males, are more exposed to situations that lead to victimization. The similar explanation from above graph can tell that the actions of minors are supervised by their guardians, so their actions are often restricted, but they are safer. This is why the victimization rate of minors in the figure is relatively low; comparatively, adults are more free to act, so they have higher security uncertainty and victimization rates.
 
-If my paper were 10 pages, then should be be at least 2.5 pages. The discussion is a chance to show off what you know and what you learnt from all this. 
 
-## Second discussion point
+```{r}
+#| label: fig-age-group-trends-victims-toronto
+#| fig-cap: Annual Trends of Crime Victims by Age Group in Toronto (2016-2022)
+#| echo: false
+#| warning: false
+#| message: false
 
-## Third discussion point
+age_group_trends <- data %>%
+  group_by(report_year, age_group) %>%
+  summarise(total_victims = sum(count, na.rm = TRUE), .groups = 'drop')
 
-## Weaknesses and next steps
+# Plotting the bar graph for age group trends
+ggplot(age_group_trends, aes(x = report_year, y = total_victims, fill = age_group)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(x = "Year",
+       y = "Total Victims",
+       fill = "Age Group") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
-Weaknesses and next steps should also be included.
+
+```
 
 \newpage
 
-\appendix
-
-# Appendix {-}
-
-
-# Additional data details
-
-# Model details {#sec-model-details}
-
-## Posterior predictive check
-
-In @fig-ppcheckandposteriorvsprior-1 we implement a posterior predictive check. This shows...
-
-In @fig-ppcheckandposteriorvsprior-2 we compare the posterior with the prior. This shows... 
-
-```{r}
-#| eval: true
-#| echo: false
-#| message: false
-#| warning: false
-#| label: fig-ppcheckandposteriorvsprior
-#| layout-ncol: 2
-#| fig-cap: "Examining how the model fits, and is affected by, the data"
-#| fig-subcap: ["Posterior prediction check", "Comparing the posterior with the prior"]
-
-pp_check(first_model) +
-  theme_classic() +
-  theme(legend.position = "bottom")
-
-posterior_vs_prior(first_model) +
-  theme_minimal() +
-  scale_color_brewer(palette = "Set1") +
-  theme(legend.position = "bottom") +
-  coord_flip()
-```
-
-## Diagnostics
-
-@fig-stanareyouokay-1 is a trace plot. It shows... This suggests...
-
-@fig-stanareyouokay-2 is a Rhat plot. It shows... This suggests...
-
-```{r}
-#| echo: false
-#| eval: true
-#| message: false
-#| warning: false
-#| label: fig-stanareyouokay
-#| fig-cap: "Checking the convergence of the MCMC algorithm"
-#| fig-subcap: ["Trace plot", "Rhat plot"]
-#| layout-ncol: 2
-
-plot(first_model, "trace")
-
-plot(first_model, "rhat")
-```
-
-
+This @fig-age-group-trends-victims-toronto shows that from 2014 to 2023, adults accounted for the majority of crime victims, with the annual number of adult victims remaining largely constant at 20,000–25,000. This suggests that adults are the most vulnerable demographic over time. The number of victims who are children and young people, on the other hand, is far lower and does not appear to be rising with time. This could be as a result of the likelihood that kids and young adults are in safe spaces, like schools or homes with parental supervision, which lowers their exposure to crime. In conclusion, the total victims don't have a obvious increasing trend, which can also tell that the supervision today can effectively restrict the victimization.
 
 \newpage
 

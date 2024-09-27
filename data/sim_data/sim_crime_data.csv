@@ -1,0 +1,1001 @@
+"","id","REPORT_YEAR","CATEGORY","SUBTYPE","ASSAULT_SUBTYPE","SEX","AGE_GROUP","AGE_COHORT","COUNT"
+"1",1,2022,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Unknown","12 to 17",107
+"2",2,2019,"Crimes Against the Person","Robbery","N/A","U","Youth","45 to 54",237
+"3",3,2018,"Crimes Against the Person","Robbery","Other","U","Unknown","55 to 64",478
+"4",4,2016,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Child","12 to 17",169
+"5",5,2015,"Crimes Against the Person","Assault","Assault Peace Officer","U","Adult","12 to 17",151
+"6",6,2017,"Crimes Against the Person","Assault","N/A","M","Unknown","65+",361
+"7",7,2014,"Crimes Against the Person","Other","Assault Resist Arrest","M","Adult","<12",272
+"8",8,2022,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Unknown","18 to 24",89
+"9",9,2016,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Child","45 to 54",293
+"10",10,2015,"Crimes Against the Person","Other","Assault Peace Officer","U","Unknown","55 to 64",92
+"11",11,2023,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Unknown","Unknown",384
+"12",12,2014,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Unknown","<12",450
+"13",13,2019,"Crimes Against the Person","Assault","Other","M","Unknown","<12",199
+"14",14,2017,"Crimes Against the Person","Assault","Assault Peace Officer","U","Child","55 to 64",351
+"15",15,2021,"Crimes Against the Person","Robbery","Other","F","Child","45 to 54",43
+"16",16,2014,"Crimes Against the Person","Robbery","N/A","U","Child","55 to 64",8
+"17",17,2018,"Crimes Against the Person","Other","Assault Peace Officer","F","Youth","12 to 17",205
+"18",18,2017,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Child","65+",468
+"19",19,2020,"Crimes Against the Person","Other","N/A","F","Adult","55 to 64",395
+"20",20,2021,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Youth","25 to 34",62
+"21",21,2019,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Unknown","55 to 64",118
+"22",22,2021,"Crimes Against the Person","Other","Assault Peace Officer","U","Adult","12 to 17",301
+"23",23,2018,"Crimes Against the Person","Assault","Other","U","Adult","12 to 17",396
+"24",24,2022,"Crimes Against the Person","Sexual Violation","N/A","U","Unknown","25 to 34",247
+"25",25,2023,"Crimes Against the Person","Robbery","Other","F","Child","12 to 17",91
+"26",26,2017,"Crimes Against the Person","Assault","N/A","U","Child","65+",108
+"27",27,2017,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Youth","45 to 54",113
+"28",28,2023,"Crimes Against the Person","Assault","N/A","U","Child","<12",412
+"29",29,2014,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Child","<12",330
+"30",30,2014,"Crimes Against the Person","Other","Assault Peace Officer","M","Youth","65+",493
+"31",31,2023,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Adult","65+",243
+"32",32,2021,"Crimes Against the Person","Other","Other","F","Unknown","45 to 54",300
+"33",33,2015,"Crimes Against the Person","Other","Assault Resist Arrest","U","Adult","25 to 34",26
+"34",34,2019,"Crimes Against the Person","Robbery","N/A","M","Youth","35 to 44",166
+"35",35,2021,"Crimes Against the Person","Assault","N/A","U","Child","25 to 34",486
+"36",36,2015,"Crimes Against the Person","Robbery","Other","F","Child","65+",44
+"37",37,2015,"Crimes Against the Person","Robbery","Other","F","Youth","55 to 64",243
+"38",38,2017,"Crimes Against the Person","Robbery","Other","M","Unknown","55 to 64",178
+"39",39,2019,"Crimes Against the Person","Assault","Other","M","Unknown","55 to 64",307
+"40",40,2019,"Crimes Against the Person","Assault","N/A","F","Child","<12",321
+"41",41,2018,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Unknown","18 to 24",35
+"42",42,2016,"Crimes Against the Person","Assault","N/A","M","Youth","45 to 54",418
+"43",43,2020,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Unknown","12 to 17",482
+"44",44,2016,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Adult","12 to 17",396
+"45",45,2017,"Crimes Against the Person","Sexual Violation","N/A","F","Child","65+",305
+"46",46,2019,"Crimes Against the Person","Assault","N/A","F","Adult","Unknown",467
+"47",47,2020,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Unknown","12 to 17",317
+"48",48,2019,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Youth","12 to 17",327
+"49",49,2021,"Crimes Against the Person","Other","Assault Peace Officer","F","Youth","35 to 44",422
+"50",50,2022,"Crimes Against the Person","Other","Assault Peace Officer","F","Unknown","55 to 64",52
+"51",51,2017,"Crimes Against the Person","Assault","Other","F","Youth","25 to 34",12
+"52",52,2014,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Youth","45 to 54",484
+"53",53,2020,"Crimes Against the Person","Robbery","N/A","U","Unknown","<12",473
+"54",54,2015,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Child","Unknown",267
+"55",55,2015,"Crimes Against the Person","Sexual Violation","Other","F","Unknown","55 to 64",481
+"56",56,2022,"Crimes Against the Person","Other","Other","F","Child","<12",122
+"57",57,2018,"Crimes Against the Person","Sexual Violation","Other","M","Youth","65+",156
+"58",58,2017,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Unknown","25 to 34",270
+"59",59,2023,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Unknown","35 to 44",326
+"60",60,2021,"Crimes Against the Person","Assault","Assault Peace Officer","U","Unknown","18 to 24",287
+"61",61,2015,"Crimes Against the Person","Other","Assault Peace Officer","F","Adult","Unknown",97
+"62",62,2023,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Adult","25 to 34",31
+"63",63,2020,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Adult","12 to 17",366
+"64",64,2015,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Youth","65+",249
+"65",65,2014,"Crimes Against the Person","Other","Assault Peace Officer","F","Youth","65+",90
+"66",66,2018,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Adult","45 to 54",160
+"67",67,2019,"Crimes Against the Person","Other","Other","F","Adult","55 to 64",168
+"68",68,2017,"Crimes Against the Person","Assault","Assault Peace Officer","U","Adult","<12",91
+"69",69,2016,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Adult","<12",80
+"70",70,2016,"Crimes Against the Person","Other","Assault Resist Arrest","M","Youth","Unknown",179
+"71",71,2019,"Crimes Against the Person","Assault","Assault Peace Officer","M","Child","45 to 54",388
+"72",72,2016,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Youth","<12",489
+"73",73,2016,"Crimes Against the Person","Assault","Other","F","Unknown","45 to 54",419
+"74",74,2018,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Child","55 to 64",240
+"75",75,2014,"Crimes Against the Person","Other","Assault Peace Officer","F","Adult","<12",235
+"76",76,2016,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Child","12 to 17",88
+"77",77,2020,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Adult","18 to 24",133
+"78",78,2018,"Crimes Against the Person","Sexual Violation","N/A","M","Unknown","25 to 34",386
+"79",79,2020,"Crimes Against the Person","Other","N/A","M","Child","25 to 34",404
+"80",80,2014,"Crimes Against the Person","Sexual Violation","N/A","M","Adult","45 to 54",457
+"81",81,2015,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Child","65+",178
+"82",82,2015,"Crimes Against the Person","Assault","N/A","F","Adult","<12",432
+"83",83,2022,"Crimes Against the Person","Other","Assault Peace Officer","F","Youth","25 to 34",154
+"84",84,2018,"Crimes Against the Person","Other","Assault Peace Officer","F","Unknown","12 to 17",428
+"85",85,2016,"Crimes Against the Person","Other","Assault Peace Officer","F","Unknown","55 to 64",305
+"86",86,2015,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Youth","55 to 64",54
+"87",87,2018,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Unknown","25 to 34",248
+"88",88,2022,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Youth","Unknown",187
+"89",89,2014,"Crimes Against the Person","Other","Other","M","Adult","45 to 54",471
+"90",90,2016,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Youth","65+",68
+"91",91,2021,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Child","45 to 54",141
+"92",92,2021,"Crimes Against the Person","Assault","N/A","M","Youth","25 to 34",68
+"93",93,2021,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Child","45 to 54",283
+"94",94,2019,"Crimes Against the Person","Sexual Violation","N/A","F","Adult","12 to 17",433
+"95",95,2022,"Crimes Against the Person","Robbery","N/A","F","Unknown","45 to 54",111
+"96",96,2014,"Crimes Against the Person","Other","Other","F","Unknown","18 to 24",466
+"97",97,2021,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Unknown","12 to 17",371
+"98",98,2022,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Adult","45 to 54",409
+"99",99,2015,"Crimes Against the Person","Assault","Other","F","Adult","65+",68
+"100",100,2020,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Unknown","<12",6
+"101",101,2014,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Child","35 to 44",2
+"102",102,2014,"Crimes Against the Person","Assault","Assault Peace Officer","M","Adult","35 to 44",326
+"103",103,2018,"Crimes Against the Person","Assault","N/A","U","Adult","18 to 24",245
+"104",104,2017,"Crimes Against the Person","Robbery","Other","F","Child","25 to 34",126
+"105",105,2018,"Crimes Against the Person","Assault","N/A","U","Unknown","12 to 17",223
+"106",106,2020,"Crimes Against the Person","Other","N/A","U","Adult","55 to 64",108
+"107",107,2019,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Child","25 to 34",475
+"108",108,2023,"Crimes Against the Person","Sexual Violation","N/A","U","Youth","Unknown",317
+"109",109,2018,"Crimes Against the Person","Robbery","Other","M","Child","25 to 34",262
+"110",110,2016,"Crimes Against the Person","Robbery","Other","F","Adult","45 to 54",54
+"111",111,2018,"Crimes Against the Person","Other","Other","M","Adult","12 to 17",161
+"112",112,2022,"Crimes Against the Person","Sexual Violation","Other","U","Unknown","55 to 64",194
+"113",113,2022,"Crimes Against the Person","Sexual Violation","Other","M","Youth","Unknown",420
+"114",114,2014,"Crimes Against the Person","Other","Assault Peace Officer","U","Child","35 to 44",312
+"115",115,2015,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Adult","Unknown",398
+"116",116,2015,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Youth","12 to 17",472
+"117",117,2015,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Adult","45 to 54",340
+"118",118,2019,"Crimes Against the Person","Other","Assault Peace Officer","U","Adult","12 to 17",366
+"119",119,2018,"Crimes Against the Person","Other","N/A","M","Adult","45 to 54",272
+"120",120,2021,"Crimes Against the Person","Assault","N/A","F","Child","45 to 54",279
+"121",121,2018,"Crimes Against the Person","Other","Assault Resist Arrest","M","Unknown","65+",232
+"122",122,2014,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Unknown","35 to 44",302
+"123",123,2022,"Crimes Against the Person","Other","N/A","M","Youth","45 to 54",194
+"124",124,2017,"Crimes Against the Person","Other","Assault Peace Officer","U","Adult","55 to 64",442
+"125",125,2020,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Unknown","35 to 44",45
+"126",126,2022,"Crimes Against the Person","Other","Assault Peace Officer","F","Youth","25 to 34",248
+"127",127,2022,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Youth","55 to 64",441
+"128",128,2016,"Crimes Against the Person","Assault","N/A","M","Child","55 to 64",325
+"129",129,2014,"Crimes Against the Person","Robbery","Other","F","Unknown","55 to 64",234
+"130",130,2021,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Unknown","55 to 64",306
+"131",131,2018,"Crimes Against the Person","Other","Other","U","Youth","25 to 34",70
+"132",132,2020,"Crimes Against the Person","Assault","Assault Peace Officer","F","Youth","65+",465
+"133",133,2022,"Crimes Against the Person","Other","N/A","M","Youth","45 to 54",475
+"134",134,2016,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Unknown","55 to 64",277
+"135",135,2017,"Crimes Against the Person","Other","Other","M","Adult","18 to 24",268
+"136",136,2020,"Crimes Against the Person","Other","Assault Peace Officer","U","Child","12 to 17",331
+"137",137,2014,"Crimes Against the Person","Other","Assault Peace Officer","F","Youth","12 to 17",427
+"138",138,2015,"Crimes Against the Person","Other","N/A","F","Adult","25 to 34",32
+"139",139,2019,"Crimes Against the Person","Other","N/A","F","Youth","45 to 54",187
+"140",140,2023,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Unknown","18 to 24",273
+"141",141,2017,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Adult","55 to 64",437
+"142",142,2015,"Crimes Against the Person","Other","N/A","U","Unknown","45 to 54",164
+"143",143,2020,"Crimes Against the Person","Other","Assault Resist Arrest","M","Adult","12 to 17",276
+"144",144,2022,"Crimes Against the Person","Robbery","Other","U","Youth","12 to 17",104
+"145",145,2022,"Crimes Against the Person","Robbery","N/A","F","Adult","55 to 64",470
+"146",146,2021,"Crimes Against the Person","Other","N/A","F","Adult","35 to 44",497
+"147",147,2019,"Crimes Against the Person","Other","Assault Peace Officer","U","Adult","55 to 64",111
+"148",148,2019,"Crimes Against the Person","Robbery","Other","M","Youth","55 to 64",49
+"149",149,2023,"Crimes Against the Person","Robbery","Other","F","Unknown","55 to 64",102
+"150",150,2019,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Adult","<12",338
+"151",151,2015,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Adult","Unknown",180
+"152",152,2021,"Crimes Against the Person","Robbery","Assault Peace Officer","U","Unknown","18 to 24",335
+"153",153,2016,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Child","65+",405
+"154",154,2019,"Crimes Against the Person","Robbery","Other","M","Adult","25 to 34",317
+"155",155,2018,"Crimes Against the Person","Other","Assault Peace Officer","M","Adult","18 to 24",464
+"156",156,2017,"Crimes Against the Person","Other","Assault Peace Officer","U","Child","12 to 17",184
+"157",157,2021,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Adult","35 to 44",280
+"158",158,2016,"Crimes Against the Person","Assault","Other","U","Adult","55 to 64",158
+"159",159,2017,"Crimes Against the Person","Assault","Other","F","Youth","12 to 17",348
+"160",160,2016,"Crimes Against the Person","Other","N/A","U","Adult","65+",106
+"161",161,2022,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Child","18 to 24",384
+"162",162,2019,"Crimes Against the Person","Sexual Violation","N/A","F","Adult","35 to 44",184
+"163",163,2014,"Crimes Against the Person","Other","Other","F","Adult","65+",120
+"164",164,2016,"Crimes Against the Person","Robbery","Other","U","Unknown","35 to 44",300
+"165",165,2015,"Crimes Against the Person","Other","Assault Peace Officer","M","Youth","25 to 34",412
+"166",166,2023,"Crimes Against the Person","Other","Assault Peace Officer","U","Youth","55 to 64",377
+"167",167,2019,"Crimes Against the Person","Assault","Other","U","Youth","Unknown",450
+"168",168,2015,"Crimes Against the Person","Assault","Other","M","Child","12 to 17",372
+"169",169,2022,"Crimes Against the Person","Other","Other","F","Youth","45 to 54",285
+"170",170,2022,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Adult","<12",434
+"171",171,2020,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Adult","35 to 44",9
+"172",172,2023,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Adult","65+",232
+"173",173,2015,"Crimes Against the Person","Other","Assault Resist Arrest","M","Unknown","35 to 44",82
+"174",174,2017,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Adult","Unknown",49
+"175",175,2021,"Crimes Against the Person","Robbery","Other","U","Adult","<12",249
+"176",176,2017,"Crimes Against the Person","Sexual Violation","Other","F","Youth","35 to 44",264
+"177",177,2022,"Crimes Against the Person","Other","Assault Peace Officer","U","Adult","65+",438
+"178",178,2023,"Crimes Against the Person","Other","N/A","U","Adult","55 to 64",285
+"179",179,2017,"Crimes Against the Person","Other","Assault Resist Arrest","F","Adult","<12",418
+"180",180,2022,"Crimes Against the Person","Assault","Other","F","Youth","35 to 44",138
+"181",181,2017,"Crimes Against the Person","Other","Other","U","Child","Unknown",384
+"182",182,2022,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Child","25 to 34",98
+"183",183,2018,"Crimes Against the Person","Robbery","Assault Peace Officer","U","Child","Unknown",47
+"184",184,2016,"Crimes Against the Person","Other","N/A","M","Adult","25 to 34",484
+"185",185,2017,"Crimes Against the Person","Robbery","Other","U","Youth","65+",319
+"186",186,2020,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Youth","Unknown",206
+"187",187,2019,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Youth","65+",182
+"188",188,2023,"Crimes Against the Person","Other","Assault Resist Arrest","M","Child","25 to 34",203
+"189",189,2023,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Unknown","45 to 54",265
+"190",190,2014,"Crimes Against the Person","Other","Assault Resist Arrest","M","Youth","65+",226
+"191",191,2015,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Adult","65+",270
+"192",192,2019,"Crimes Against the Person","Robbery","Other","M","Adult","45 to 54",161
+"193",193,2020,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Youth","65+",44
+"194",194,2022,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Youth","18 to 24",360
+"195",195,2020,"Crimes Against the Person","Other","Other","U","Adult","<12",233
+"196",196,2015,"Crimes Against the Person","Assault","Assault Peace Officer","M","Youth","65+",192
+"197",197,2021,"Crimes Against the Person","Sexual Violation","N/A","U","Child","12 to 17",292
+"198",198,2017,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Unknown","12 to 17",38
+"199",199,2022,"Crimes Against the Person","Other","N/A","F","Unknown","55 to 64",123
+"200",200,2022,"Crimes Against the Person","Other","N/A","F","Child","35 to 44",382
+"201",201,2023,"Crimes Against the Person","Assault","Other","M","Unknown","35 to 44",455
+"202",202,2018,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Child","<12",128
+"203",203,2016,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Unknown","35 to 44",154
+"204",204,2020,"Crimes Against the Person","Other","N/A","F","Adult","12 to 17",446
+"205",205,2022,"Crimes Against the Person","Other","Assault Peace Officer","M","Youth","45 to 54",399
+"206",206,2014,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Adult","25 to 34",184
+"207",207,2020,"Crimes Against the Person","Robbery","Other","F","Adult","65+",177
+"208",208,2015,"Crimes Against the Person","Robbery","Assault Peace Officer","U","Child","45 to 54",50
+"209",209,2023,"Crimes Against the Person","Other","N/A","M","Child","Unknown",461
+"210",210,2015,"Crimes Against the Person","Assault","Assault Peace Officer","M","Unknown","45 to 54",101
+"211",211,2014,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Youth","45 to 54",218
+"212",212,2014,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Adult","45 to 54",24
+"213",213,2021,"Crimes Against the Person","Other","N/A","M","Unknown","65+",235
+"214",214,2022,"Crimes Against the Person","Robbery","N/A","U","Youth","12 to 17",458
+"215",215,2017,"Crimes Against the Person","Assault","Assault Peace Officer","U","Adult","35 to 44",191
+"216",216,2020,"Crimes Against the Person","Assault","Other","M","Youth","Unknown",411
+"217",217,2018,"Crimes Against the Person","Other","Assault Resist Arrest","U","Unknown","Unknown",44
+"218",218,2015,"Crimes Against the Person","Other","Other","F","Youth","55 to 64",320
+"219",219,2014,"Crimes Against the Person","Robbery","N/A","U","Youth","35 to 44",49
+"220",220,2023,"Crimes Against the Person","Assault","N/A","M","Adult","35 to 44",418
+"221",221,2019,"Crimes Against the Person","Robbery","Other","U","Adult","18 to 24",226
+"222",222,2020,"Crimes Against the Person","Assault","Assault Peace Officer","M","Youth","65+",400
+"223",223,2023,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Youth","18 to 24",335
+"224",224,2016,"Crimes Against the Person","Other","N/A","U","Child","25 to 34",337
+"225",225,2017,"Crimes Against the Person","Assault","Other","F","Adult","45 to 54",409
+"226",226,2022,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Child","25 to 34",151
+"227",227,2020,"Crimes Against the Person","Other","N/A","U","Adult","55 to 64",24
+"228",228,2020,"Crimes Against the Person","Other","Assault Peace Officer","M","Youth","45 to 54",32
+"229",229,2016,"Crimes Against the Person","Robbery","N/A","F","Unknown","<12",145
+"230",230,2019,"Crimes Against the Person","Other","N/A","U","Adult","12 to 17",210
+"231",231,2017,"Crimes Against the Person","Sexual Violation","N/A","F","Child","65+",131
+"232",232,2023,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Youth","18 to 24",99
+"233",233,2016,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Child","18 to 24",180
+"234",234,2023,"Crimes Against the Person","Other","Other","U","Unknown","Unknown",405
+"235",235,2014,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Child","12 to 17",383
+"236",236,2020,"Crimes Against the Person","Other","N/A","U","Unknown","<12",10
+"237",237,2023,"Crimes Against the Person","Other","Assault Resist Arrest","U","Youth","55 to 64",201
+"238",238,2019,"Crimes Against the Person","Robbery","Other","U","Unknown","12 to 17",292
+"239",239,2020,"Crimes Against the Person","Assault","Assault Peace Officer","F","Child","45 to 54",62
+"240",240,2016,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Adult","65+",476
+"241",241,2018,"Crimes Against the Person","Other","Other","M","Unknown","25 to 34",5
+"242",242,2019,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Unknown","18 to 24",404
+"243",243,2015,"Crimes Against the Person","Other","Assault Resist Arrest","F","Adult","25 to 34",254
+"244",244,2017,"Crimes Against the Person","Other","Assault Peace Officer","M","Unknown","<12",95
+"245",245,2023,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Youth","25 to 34",442
+"246",246,2016,"Crimes Against the Person","Sexual Violation","Other","U","Child","12 to 17",51
+"247",247,2016,"Crimes Against the Person","Other","N/A","M","Youth","25 to 34",141
+"248",248,2018,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Youth","18 to 24",57
+"249",249,2017,"Crimes Against the Person","Assault","Other","M","Child","18 to 24",499
+"250",250,2021,"Crimes Against the Person","Assault","N/A","F","Child","65+",210
+"251",251,2019,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Unknown","55 to 64",369
+"252",252,2021,"Crimes Against the Person","Assault","Assault Peace Officer","U","Child","Unknown",236
+"253",253,2018,"Crimes Against the Person","Assault","Other","M","Adult","25 to 34",391
+"254",254,2020,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Youth","55 to 64",385
+"255",255,2015,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Child","35 to 44",262
+"256",256,2022,"Crimes Against the Person","Other","N/A","M","Unknown","65+",5
+"257",257,2019,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Child","18 to 24",435
+"258",258,2016,"Crimes Against the Person","Assault","Other","M","Youth","25 to 34",50
+"259",259,2017,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Child","18 to 24",23
+"260",260,2017,"Crimes Against the Person","Sexual Violation","N/A","F","Unknown","35 to 44",404
+"261",261,2015,"Crimes Against the Person","Robbery","Other","F","Child","65+",209
+"262",262,2017,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Child","18 to 24",288
+"263",263,2015,"Crimes Against the Person","Other","Other","M","Adult","35 to 44",412
+"264",264,2019,"Crimes Against the Person","Other","Assault Peace Officer","M","Child","55 to 64",318
+"265",265,2017,"Crimes Against the Person","Other","Assault Resist Arrest","U","Child","55 to 64",2
+"266",266,2020,"Crimes Against the Person","Robbery","N/A","U","Unknown","25 to 34",489
+"267",267,2018,"Crimes Against the Person","Assault","N/A","U","Youth","45 to 54",198
+"268",268,2021,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Adult","25 to 34",299
+"269",269,2017,"Crimes Against the Person","Sexual Violation","Other","U","Adult","Unknown",272
+"270",270,2023,"Crimes Against the Person","Assault","Assault Peace Officer","M","Unknown","<12",40
+"271",271,2023,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Unknown","18 to 24",60
+"272",272,2021,"Crimes Against the Person","Other","Other","M","Adult","45 to 54",114
+"273",273,2014,"Crimes Against the Person","Assault","N/A","U","Youth","65+",440
+"274",274,2023,"Crimes Against the Person","Other","Assault Resist Arrest","U","Unknown","Unknown",493
+"275",275,2019,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Adult","55 to 64",260
+"276",276,2017,"Crimes Against the Person","Sexual Violation","N/A","U","Child","55 to 64",144
+"277",277,2018,"Crimes Against the Person","Other","N/A","F","Unknown","25 to 34",98
+"278",278,2015,"Crimes Against the Person","Sexual Violation","N/A","U","Child","45 to 54",68
+"279",279,2021,"Crimes Against the Person","Assault","Other","F","Youth","<12",77
+"280",280,2016,"Crimes Against the Person","Robbery","N/A","U","Adult","45 to 54",176
+"281",281,2020,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Child","55 to 64",151
+"282",282,2021,"Crimes Against the Person","Other","N/A","M","Child","55 to 64",249
+"283",283,2016,"Crimes Against the Person","Other","Assault Peace Officer","U","Adult","35 to 44",268
+"284",284,2022,"Crimes Against the Person","Other","N/A","U","Youth","Unknown",471
+"285",285,2023,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Adult","12 to 17",290
+"286",286,2020,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Unknown","12 to 17",82
+"287",287,2022,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Adult","<12",80
+"288",288,2023,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Youth","Unknown",46
+"289",289,2023,"Crimes Against the Person","Other","Assault Resist Arrest","U","Child","35 to 44",300
+"290",290,2019,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Youth","45 to 54",419
+"291",291,2021,"Crimes Against the Person","Assault","Other","U","Unknown","45 to 54",203
+"292",292,2014,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Adult","<12",3
+"293",293,2023,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Youth","35 to 44",454
+"294",294,2020,"Crimes Against the Person","Other","N/A","M","Unknown","18 to 24",204
+"295",295,2021,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Child","35 to 44",432
+"296",296,2015,"Crimes Against the Person","Assault","Other","M","Child","25 to 34",395
+"297",297,2020,"Crimes Against the Person","Assault","N/A","M","Adult","35 to 44",86
+"298",298,2018,"Crimes Against the Person","Assault","Assault Peace Officer","F","Child","65+",31
+"299",299,2014,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Adult","55 to 64",163
+"300",300,2019,"Crimes Against the Person","Other","Other","F","Child","Unknown",89
+"301",301,2016,"Crimes Against the Person","Other","Assault Peace Officer","U","Unknown","25 to 34",218
+"302",302,2017,"Crimes Against the Person","Assault","N/A","U","Child","45 to 54",274
+"303",303,2021,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Unknown","Unknown",266
+"304",304,2018,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Unknown","18 to 24",387
+"305",305,2014,"Crimes Against the Person","Other","Assault Resist Arrest","F","Child","65+",142
+"306",306,2021,"Crimes Against the Person","Other","Assault Resist Arrest","U","Youth","Unknown",242
+"307",307,2020,"Crimes Against the Person","Other","Assault Peace Officer","F","Unknown","18 to 24",163
+"308",308,2017,"Crimes Against the Person","Other","Assault Resist Arrest","M","Child","35 to 44",279
+"309",309,2014,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Unknown","<12",318
+"310",310,2015,"Crimes Against the Person","Other","Assault Peace Officer","F","Child","25 to 34",73
+"311",311,2014,"Crimes Against the Person","Assault","N/A","M","Unknown","18 to 24",337
+"312",312,2023,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Unknown","12 to 17",467
+"313",313,2015,"Crimes Against the Person","Assault","Assault Peace Officer","F","Adult","35 to 44",169
+"314",314,2015,"Crimes Against the Person","Assault","Assault Peace Officer","U","Youth","25 to 34",449
+"315",315,2017,"Crimes Against the Person","Other","Assault Resist Arrest","U","Youth","65+",64
+"316",316,2018,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Unknown","<12",67
+"317",317,2017,"Crimes Against the Person","Sexual Violation","N/A","U","Child","25 to 34",460
+"318",318,2018,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Child","65+",311
+"319",319,2015,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Child","12 to 17",407
+"320",320,2014,"Crimes Against the Person","Assault","N/A","F","Adult","55 to 64",17
+"321",321,2021,"Crimes Against the Person","Sexual Violation","Other","M","Youth","Unknown",332
+"322",322,2019,"Crimes Against the Person","Other","Assault Peace Officer","M","Unknown","55 to 64",289
+"323",323,2014,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Youth","12 to 17",209
+"324",324,2023,"Crimes Against the Person","Other","Assault Resist Arrest","F","Child","25 to 34",161
+"325",325,2020,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Child","25 to 34",209
+"326",326,2017,"Crimes Against the Person","Sexual Violation","N/A","U","Child","<12",447
+"327",327,2015,"Crimes Against the Person","Sexual Violation","Other","U","Unknown","35 to 44",478
+"328",328,2015,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Adult","65+",143
+"329",329,2023,"Crimes Against the Person","Assault","Other","U","Adult","12 to 17",472
+"330",330,2016,"Crimes Against the Person","Robbery","Other","U","Child","45 to 54",170
+"331",331,2016,"Crimes Against the Person","Sexual Violation","Other","M","Youth","<12",459
+"332",332,2016,"Crimes Against the Person","Assault","Assault Peace Officer","U","Youth","<12",165
+"333",333,2022,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Unknown","<12",58
+"334",334,2018,"Crimes Against the Person","Robbery","Other","M","Unknown","12 to 17",324
+"335",335,2018,"Crimes Against the Person","Other","N/A","M","Youth","<12",228
+"336",336,2014,"Crimes Against the Person","Sexual Violation","Other","M","Youth","Unknown",7
+"337",337,2015,"Crimes Against the Person","Robbery","N/A","F","Unknown","65+",354
+"338",338,2023,"Crimes Against the Person","Assault","N/A","M","Youth","55 to 64",327
+"339",339,2020,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Adult","Unknown",270
+"340",340,2016,"Crimes Against the Person","Assault","Other","M","Youth","35 to 44",271
+"341",341,2021,"Crimes Against the Person","Sexual Violation","Other","F","Child","Unknown",14
+"342",342,2021,"Crimes Against the Person","Sexual Violation","Other","F","Child","12 to 17",38
+"343",343,2019,"Crimes Against the Person","Assault","Other","U","Adult","25 to 34",298
+"344",344,2019,"Crimes Against the Person","Other","Assault Peace Officer","U","Youth","25 to 34",332
+"345",345,2017,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Child","55 to 64",1
+"346",346,2017,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Child","18 to 24",327
+"347",347,2021,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Adult","45 to 54",428
+"348",348,2016,"Crimes Against the Person","Assault","N/A","F","Child","25 to 34",390
+"349",349,2019,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Child","<12",405
+"350",350,2016,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Adult","12 to 17",493
+"351",351,2016,"Crimes Against the Person","Sexual Violation","N/A","U","Adult","<12",279
+"352",352,2022,"Crimes Against the Person","Assault","Other","U","Youth","25 to 34",2
+"353",353,2022,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Youth","65+",226
+"354",354,2022,"Crimes Against the Person","Assault","Assault Peace Officer","F","Adult","12 to 17",299
+"355",355,2020,"Crimes Against the Person","Assault","Other","M","Adult","55 to 64",451
+"356",356,2017,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Adult","25 to 34",364
+"357",357,2016,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Unknown","<12",66
+"358",358,2019,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Youth","45 to 54",482
+"359",359,2021,"Crimes Against the Person","Robbery","N/A","F","Unknown","12 to 17",71
+"360",360,2022,"Crimes Against the Person","Other","N/A","M","Child","Unknown",97
+"361",361,2017,"Crimes Against the Person","Other","Assault Peace Officer","M","Child","12 to 17",159
+"362",362,2020,"Crimes Against the Person","Other","Assault Resist Arrest","U","Adult","25 to 34",306
+"363",363,2015,"Crimes Against the Person","Assault","Other","F","Child","12 to 17",454
+"364",364,2019,"Crimes Against the Person","Robbery","N/A","F","Child","12 to 17",427
+"365",365,2015,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Adult","35 to 44",41
+"366",366,2014,"Crimes Against the Person","Other","Other","M","Youth","45 to 54",36
+"367",367,2016,"Crimes Against the Person","Sexual Violation","Other","F","Adult","65+",11
+"368",368,2014,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Adult","12 to 17",244
+"369",369,2014,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Youth","35 to 44",410
+"370",370,2017,"Crimes Against the Person","Robbery","N/A","M","Unknown","25 to 34",80
+"371",371,2016,"Crimes Against the Person","Assault","Other","F","Adult","Unknown",6
+"372",372,2017,"Crimes Against the Person","Assault","N/A","M","Youth","18 to 24",292
+"373",373,2018,"Crimes Against the Person","Robbery","N/A","F","Adult","Unknown",90
+"374",374,2020,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Child","<12",38
+"375",375,2017,"Crimes Against the Person","Assault","N/A","U","Child","12 to 17",310
+"376",376,2017,"Crimes Against the Person","Other","Assault Peace Officer","U","Unknown","35 to 44",253
+"377",377,2015,"Crimes Against the Person","Sexual Violation","Other","M","Youth","18 to 24",269
+"378",378,2019,"Crimes Against the Person","Sexual Violation","N/A","F","Adult","12 to 17",329
+"379",379,2018,"Crimes Against the Person","Other","Assault Peace Officer","M","Adult","35 to 44",375
+"380",380,2021,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Unknown","25 to 34",348
+"381",381,2023,"Crimes Against the Person","Assault","Other","F","Youth","12 to 17",274
+"382",382,2016,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Adult","65+",158
+"383",383,2020,"Crimes Against the Person","Other","Assault Resist Arrest","M","Unknown","12 to 17",486
+"384",384,2014,"Crimes Against the Person","Other","N/A","M","Youth","35 to 44",107
+"385",385,2014,"Crimes Against the Person","Other","N/A","M","Youth","65+",398
+"386",386,2018,"Crimes Against the Person","Other","Assault Peace Officer","U","Adult","45 to 54",185
+"387",387,2020,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Youth","Unknown",380
+"388",388,2023,"Crimes Against the Person","Other","Assault Resist Arrest","M","Adult","12 to 17",417
+"389",389,2016,"Crimes Against the Person","Other","Other","F","Unknown","Unknown",293
+"390",390,2019,"Crimes Against the Person","Other","Other","M","Child","18 to 24",414
+"391",391,2020,"Crimes Against the Person","Other","Assault Peace Officer","F","Adult","18 to 24",344
+"392",392,2019,"Crimes Against the Person","Other","N/A","U","Unknown","Unknown",62
+"393",393,2015,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Child","35 to 44",352
+"394",394,2014,"Crimes Against the Person","Assault","N/A","M","Adult","12 to 17",334
+"395",395,2017,"Crimes Against the Person","Assault","N/A","M","Child","<12",63
+"396",396,2015,"Crimes Against the Person","Other","N/A","M","Adult","65+",115
+"397",397,2016,"Crimes Against the Person","Other","Assault Peace Officer","U","Child","<12",198
+"398",398,2022,"Crimes Against the Person","Assault","N/A","F","Adult","55 to 64",367
+"399",399,2016,"Crimes Against the Person","Sexual Violation","N/A","F","Unknown","18 to 24",50
+"400",400,2014,"Crimes Against the Person","Sexual Violation","Other","F","Unknown","55 to 64",489
+"401",401,2017,"Crimes Against the Person","Assault","Other","M","Unknown","25 to 34",317
+"402",402,2022,"Crimes Against the Person","Assault","Assault Peace Officer","U","Adult","35 to 44",324
+"403",403,2016,"Crimes Against the Person","Assault","N/A","M","Youth","Unknown",143
+"404",404,2015,"Crimes Against the Person","Sexual Violation","N/A","F","Youth","55 to 64",355
+"405",405,2019,"Crimes Against the Person","Sexual Violation","Other","F","Adult","65+",120
+"406",406,2016,"Crimes Against the Person","Assault","Assault Peace Officer","F","Unknown","65+",48
+"407",407,2014,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Youth","Unknown",388
+"408",408,2020,"Crimes Against the Person","Robbery","Other","M","Child","35 to 44",329
+"409",409,2021,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Unknown","Unknown",131
+"410",410,2017,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Adult","45 to 54",205
+"411",411,2016,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Child","65+",134
+"412",412,2023,"Crimes Against the Person","Assault","N/A","M","Adult","12 to 17",153
+"413",413,2023,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Unknown","18 to 24",188
+"414",414,2022,"Crimes Against the Person","Other","N/A","U","Unknown","65+",75
+"415",415,2019,"Crimes Against the Person","Other","N/A","F","Unknown","65+",175
+"416",416,2015,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Unknown","55 to 64",56
+"417",417,2023,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Adult","45 to 54",498
+"418",418,2018,"Crimes Against the Person","Assault","N/A","F","Adult","Unknown",50
+"419",419,2018,"Crimes Against the Person","Robbery","Other","F","Adult","Unknown",128
+"420",420,2020,"Crimes Against the Person","Other","Other","M","Adult","18 to 24",309
+"421",421,2019,"Crimes Against the Person","Assault","N/A","F","Adult","35 to 44",32
+"422",422,2018,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Youth","25 to 34",425
+"423",423,2017,"Crimes Against the Person","Other","Assault Peace Officer","M","Unknown","18 to 24",142
+"424",424,2017,"Crimes Against the Person","Assault","Assault Peace Officer","M","Child","Unknown",158
+"425",425,2023,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Unknown","12 to 17",488
+"426",426,2014,"Crimes Against the Person","Other","Assault Resist Arrest","M","Child","65+",447
+"427",427,2014,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Child","25 to 34",469
+"428",428,2019,"Crimes Against the Person","Assault","N/A","M","Adult","65+",238
+"429",429,2015,"Crimes Against the Person","Sexual Violation","Other","F","Youth","25 to 34",252
+"430",430,2015,"Crimes Against the Person","Sexual Violation","Other","U","Adult","55 to 64",272
+"431",431,2017,"Crimes Against the Person","Robbery","Other","F","Youth","18 to 24",423
+"432",432,2017,"Crimes Against the Person","Assault","Assault Peace Officer","M","Adult","55 to 64",21
+"433",433,2021,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Adult","45 to 54",167
+"434",434,2017,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Youth","25 to 34",24
+"435",435,2014,"Crimes Against the Person","Assault","Other","U","Adult","35 to 44",293
+"436",436,2016,"Crimes Against the Person","Assault","Assault Peace Officer","F","Unknown","35 to 44",106
+"437",437,2018,"Crimes Against the Person","Robbery","Other","M","Unknown","12 to 17",208
+"438",438,2020,"Crimes Against the Person","Assault","Assault Peace Officer","M","Child","35 to 44",6
+"439",439,2022,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Youth","<12",352
+"440",440,2015,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Unknown","12 to 17",358
+"441",441,2023,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Youth","35 to 44",423
+"442",442,2016,"Crimes Against the Person","Assault","Other","M","Adult","18 to 24",148
+"443",443,2015,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Youth","Unknown",200
+"444",444,2015,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Child","25 to 34",364
+"445",445,2016,"Crimes Against the Person","Robbery","N/A","M","Unknown","12 to 17",247
+"446",446,2023,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Youth","Unknown",146
+"447",447,2019,"Crimes Against the Person","Assault","N/A","M","Youth","65+",443
+"448",448,2016,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Adult","18 to 24",124
+"449",449,2021,"Crimes Against the Person","Assault","Other","M","Adult","<12",460
+"450",450,2015,"Crimes Against the Person","Sexual Violation","Other","U","Child","55 to 64",115
+"451",451,2016,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Unknown","<12",210
+"452",452,2018,"Crimes Against the Person","Assault","Assault Peace Officer","F","Youth","25 to 34",48
+"453",453,2017,"Crimes Against the Person","Other","Other","U","Child","Unknown",75
+"454",454,2022,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Adult","<12",88
+"455",455,2018,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Unknown","Unknown",481
+"456",456,2023,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Adult","35 to 44",196
+"457",457,2016,"Crimes Against the Person","Other","Other","F","Youth","Unknown",403
+"458",458,2022,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Unknown","12 to 17",431
+"459",459,2015,"Crimes Against the Person","Other","N/A","F","Youth","45 to 54",186
+"460",460,2019,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Child","65+",65
+"461",461,2023,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Youth","<12",409
+"462",462,2014,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Youth","Unknown",406
+"463",463,2015,"Crimes Against the Person","Assault","N/A","M","Child","<12",63
+"464",464,2023,"Crimes Against the Person","Other","Assault Peace Officer","F","Unknown","65+",273
+"465",465,2017,"Crimes Against the Person","Other","Other","M","Adult","55 to 64",355
+"466",466,2021,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Adult","12 to 17",271
+"467",467,2017,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Unknown","<12",270
+"468",468,2016,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Adult","<12",289
+"469",469,2020,"Crimes Against the Person","Other","Assault Resist Arrest","M","Adult","18 to 24",171
+"470",470,2022,"Crimes Against the Person","Assault","Assault Peace Officer","F","Adult","65+",259
+"471",471,2014,"Crimes Against the Person","Sexual Violation","Other","M","Adult","12 to 17",200
+"472",472,2015,"Crimes Against the Person","Robbery","N/A","M","Adult","45 to 54",114
+"473",473,2018,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Youth","25 to 34",305
+"474",474,2018,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Adult","Unknown",317
+"475",475,2023,"Crimes Against the Person","Robbery","N/A","F","Youth","Unknown",435
+"476",476,2016,"Crimes Against the Person","Other","N/A","M","Adult","45 to 54",423
+"477",477,2015,"Crimes Against the Person","Robbery","Other","U","Unknown","18 to 24",227
+"478",478,2015,"Crimes Against the Person","Other","Other","F","Youth","18 to 24",354
+"479",479,2018,"Crimes Against the Person","Assault","Other","F","Adult","45 to 54",243
+"480",480,2021,"Crimes Against the Person","Other","Assault Resist Arrest","F","Unknown","65+",225
+"481",481,2018,"Crimes Against the Person","Sexual Violation","N/A","M","Adult","Unknown",16
+"482",482,2016,"Crimes Against the Person","Other","Assault Resist Arrest","M","Youth","35 to 44",7
+"483",483,2019,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Unknown","45 to 54",252
+"484",484,2020,"Crimes Against the Person","Robbery","N/A","U","Unknown","<12",355
+"485",485,2018,"Crimes Against the Person","Assault","N/A","M","Adult","18 to 24",489
+"486",486,2015,"Crimes Against the Person","Assault","N/A","U","Youth","65+",446
+"487",487,2018,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Unknown","12 to 17",403
+"488",488,2021,"Crimes Against the Person","Assault","Assault Peace Officer","U","Unknown","Unknown",61
+"489",489,2016,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Adult","18 to 24",367
+"490",490,2014,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Adult","45 to 54",472
+"491",491,2021,"Crimes Against the Person","Robbery","N/A","F","Unknown","55 to 64",343
+"492",492,2019,"Crimes Against the Person","Other","Other","M","Child","25 to 34",158
+"493",493,2015,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Adult","25 to 34",111
+"494",494,2016,"Crimes Against the Person","Other","N/A","M","Child","Unknown",405
+"495",495,2019,"Crimes Against the Person","Robbery","Other","F","Child","55 to 64",459
+"496",496,2019,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Youth","65+",18
+"497",497,2018,"Crimes Against the Person","Other","N/A","F","Youth","Unknown",487
+"498",498,2016,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Child","35 to 44",173
+"499",499,2019,"Crimes Against the Person","Other","Assault Resist Arrest","U","Unknown","65+",478
+"500",500,2018,"Crimes Against the Person","Sexual Violation","Other","M","Unknown","65+",348
+"501",501,2016,"Crimes Against the Person","Robbery","N/A","M","Child","45 to 54",205
+"502",502,2014,"Crimes Against the Person","Assault","N/A","F","Youth","35 to 44",29
+"503",503,2014,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Adult","35 to 44",344
+"504",504,2016,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Unknown","18 to 24",232
+"505",505,2019,"Crimes Against the Person","Other","N/A","M","Adult","Unknown",52
+"506",506,2015,"Crimes Against the Person","Other","N/A","F","Child","45 to 54",324
+"507",507,2021,"Crimes Against the Person","Sexual Violation","Other","U","Youth","55 to 64",60
+"508",508,2021,"Crimes Against the Person","Sexual Violation","Other","U","Youth","<12",249
+"509",509,2018,"Crimes Against the Person","Other","Other","M","Youth","45 to 54",337
+"510",510,2022,"Crimes Against the Person","Robbery","N/A","F","Unknown","25 to 34",376
+"511",511,2017,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Adult","55 to 64",72
+"512",512,2022,"Crimes Against the Person","Sexual Violation","N/A","M","Child","55 to 64",153
+"513",513,2022,"Crimes Against the Person","Sexual Violation","Other","U","Adult","18 to 24",177
+"514",514,2021,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Adult","18 to 24",193
+"515",515,2022,"Crimes Against the Person","Other","Other","M","Youth","Unknown",473
+"516",516,2023,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Child","18 to 24",111
+"517",517,2017,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Child","12 to 17",462
+"518",518,2015,"Crimes Against the Person","Assault","N/A","M","Unknown","65+",442
+"519",519,2014,"Crimes Against the Person","Assault","Assault Peace Officer","U","Child","18 to 24",163
+"520",520,2016,"Crimes Against the Person","Other","N/A","F","Child","18 to 24",120
+"521",521,2018,"Crimes Against the Person","Assault","Assault Peace Officer","F","Unknown","55 to 64",11
+"522",522,2020,"Crimes Against the Person","Robbery","Other","F","Adult","45 to 54",421
+"523",523,2019,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Adult","12 to 17",155
+"524",524,2015,"Crimes Against the Person","Sexual Violation","N/A","M","Adult","<12",426
+"525",525,2014,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Child","12 to 17",318
+"526",526,2017,"Crimes Against the Person","Assault","N/A","M","Youth","35 to 44",67
+"527",527,2015,"Crimes Against the Person","Other","Assault Resist Arrest","F","Child","Unknown",57
+"528",528,2017,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Child","<12",420
+"529",529,2020,"Crimes Against the Person","Other","Other","M","Child","12 to 17",494
+"530",530,2019,"Crimes Against the Person","Assault","Assault Peace Officer","U","Unknown","12 to 17",209
+"531",531,2015,"Crimes Against the Person","Other","Assault Peace Officer","M","Adult","25 to 34",302
+"532",532,2014,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Adult","<12",207
+"533",533,2016,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Adult","55 to 64",377
+"534",534,2018,"Crimes Against the Person","Other","Assault Resist Arrest","U","Youth","12 to 17",337
+"535",535,2017,"Crimes Against the Person","Other","Assault Peace Officer","U","Child","Unknown",430
+"536",536,2022,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Adult","35 to 44",407
+"537",537,2020,"Crimes Against the Person","Sexual Violation","Other","U","Unknown","25 to 34",336
+"538",538,2019,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Youth","25 to 34",377
+"539",539,2017,"Crimes Against the Person","Robbery","Other","F","Child","Unknown",26
+"540",540,2021,"Crimes Against the Person","Robbery","Other","M","Youth","<12",239
+"541",541,2016,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Unknown","18 to 24",63
+"542",542,2023,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Youth","25 to 34",374
+"543",543,2022,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Child","Unknown",52
+"544",544,2020,"Crimes Against the Person","Assault","N/A","F","Unknown","65+",487
+"545",545,2020,"Crimes Against the Person","Assault","Other","M","Youth","Unknown",399
+"546",546,2023,"Crimes Against the Person","Robbery","Other","M","Unknown","55 to 64",87
+"547",547,2017,"Crimes Against the Person","Other","N/A","F","Youth","55 to 64",114
+"548",548,2014,"Crimes Against the Person","Robbery","N/A","M","Youth","<12",290
+"549",549,2018,"Crimes Against the Person","Assault","Other","U","Unknown","Unknown",347
+"550",550,2023,"Crimes Against the Person","Assault","Other","M","Child","<12",196
+"551",551,2016,"Crimes Against the Person","Assault","N/A","M","Adult","55 to 64",111
+"552",552,2020,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Child","18 to 24",264
+"553",553,2023,"Crimes Against the Person","Robbery","N/A","U","Unknown","18 to 24",28
+"554",554,2015,"Crimes Against the Person","Other","Assault Peace Officer","M","Unknown","65+",14
+"555",555,2020,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Youth","35 to 44",103
+"556",556,2019,"Crimes Against the Person","Assault","Other","M","Youth","55 to 64",449
+"557",557,2020,"Crimes Against the Person","Sexual Violation","N/A","F","Child","45 to 54",329
+"558",558,2023,"Crimes Against the Person","Assault","N/A","F","Child","<12",218
+"559",559,2017,"Crimes Against the Person","Robbery","N/A","F","Child","25 to 34",90
+"560",560,2023,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Unknown","65+",415
+"561",561,2021,"Crimes Against the Person","Sexual Violation","N/A","F","Unknown","65+",62
+"562",562,2014,"Crimes Against the Person","Assault","N/A","U","Youth","55 to 64",274
+"563",563,2016,"Crimes Against the Person","Sexual Violation","N/A","M","Unknown","Unknown",327
+"564",564,2020,"Crimes Against the Person","Other","Other","M","Adult","18 to 24",296
+"565",565,2023,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Youth","45 to 54",323
+"566",566,2020,"Crimes Against the Person","Assault","Other","U","Unknown","18 to 24",457
+"567",567,2015,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Youth","55 to 64",177
+"568",568,2021,"Crimes Against the Person","Sexual Violation","N/A","F","Youth","45 to 54",100
+"569",569,2016,"Crimes Against the Person","Robbery","N/A","M","Youth","Unknown",52
+"570",570,2018,"Crimes Against the Person","Sexual Violation","N/A","M","Youth","35 to 44",189
+"571",571,2022,"Crimes Against the Person","Other","Other","U","Child","45 to 54",359
+"572",572,2021,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Youth","55 to 64",142
+"573",573,2015,"Crimes Against the Person","Other","Assault Peace Officer","U","Adult","Unknown",98
+"574",574,2017,"Crimes Against the Person","Sexual Violation","N/A","U","Adult","35 to 44",318
+"575",575,2021,"Crimes Against the Person","Robbery","Other","U","Adult","Unknown",310
+"576",576,2023,"Crimes Against the Person","Assault","Assault Peace Officer","F","Child","<12",208
+"577",577,2016,"Crimes Against the Person","Sexual Violation","N/A","U","Youth","12 to 17",59
+"578",578,2019,"Crimes Against the Person","Sexual Violation","Other","U","Youth","65+",426
+"579",579,2016,"Crimes Against the Person","Assault","Other","M","Child","18 to 24",371
+"580",580,2016,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Child","Unknown",188
+"581",581,2020,"Crimes Against the Person","Other","Assault Resist Arrest","F","Unknown","25 to 34",379
+"582",582,2021,"Crimes Against the Person","Other","Assault Resist Arrest","F","Youth","Unknown",257
+"583",583,2015,"Crimes Against the Person","Assault","Assault Peace Officer","M","Unknown","Unknown",345
+"584",584,2015,"Crimes Against the Person","Sexual Violation","N/A","F","Child","25 to 34",311
+"585",585,2015,"Crimes Against the Person","Robbery","Other","F","Adult","18 to 24",348
+"586",586,2020,"Crimes Against the Person","Robbery","N/A","M","Unknown","35 to 44",253
+"587",587,2021,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Child","35 to 44",19
+"588",588,2023,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Unknown","65+",364
+"589",589,2019,"Crimes Against the Person","Other","Other","F","Adult","18 to 24",234
+"590",590,2016,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Child","<12",157
+"591",591,2023,"Crimes Against the Person","Other","Other","M","Youth","<12",170
+"592",592,2016,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Youth","35 to 44",42
+"593",593,2015,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Youth","18 to 24",267
+"594",594,2017,"Crimes Against the Person","Assault","Other","F","Child","<12",403
+"595",595,2021,"Crimes Against the Person","Other","Other","F","Child","35 to 44",375
+"596",596,2016,"Crimes Against the Person","Assault","N/A","M","Unknown","<12",94
+"597",597,2020,"Crimes Against the Person","Robbery","N/A","F","Youth","45 to 54",24
+"598",598,2015,"Crimes Against the Person","Other","Other","F","Youth","35 to 44",298
+"599",599,2015,"Crimes Against the Person","Assault","N/A","U","Unknown","65+",203
+"600",600,2019,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Child","Unknown",363
+"601",601,2023,"Crimes Against the Person","Other","Assault Peace Officer","M","Unknown","<12",329
+"602",602,2016,"Crimes Against the Person","Sexual Violation","Other","U","Unknown","45 to 54",173
+"603",603,2018,"Crimes Against the Person","Assault","Assault Peace Officer","U","Adult","45 to 54",408
+"604",604,2015,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Adult","55 to 64",82
+"605",605,2019,"Crimes Against the Person","Robbery","Assault Peace Officer","U","Youth","35 to 44",25
+"606",606,2021,"Crimes Against the Person","Sexual Violation","N/A","U","Unknown","65+",266
+"607",607,2018,"Crimes Against the Person","Sexual Violation","Other","F","Adult","55 to 64",329
+"608",608,2018,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Unknown","25 to 34",158
+"609",609,2021,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Youth","65+",182
+"610",610,2016,"Crimes Against the Person","Assault","Assault Peace Officer","M","Youth","65+",137
+"611",611,2022,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Adult","25 to 34",300
+"612",612,2023,"Crimes Against the Person","Assault","Other","U","Adult","35 to 44",102
+"613",613,2020,"Crimes Against the Person","Robbery","Other","F","Child","18 to 24",21
+"614",614,2023,"Crimes Against the Person","Assault","Other","U","Youth","Unknown",480
+"615",615,2016,"Crimes Against the Person","Assault","Other","F","Youth","Unknown",259
+"616",616,2021,"Crimes Against the Person","Other","N/A","U","Youth","25 to 34",55
+"617",617,2017,"Crimes Against the Person","Sexual Violation","Other","M","Child","45 to 54",327
+"618",618,2015,"Crimes Against the Person","Assault","N/A","M","Adult","25 to 34",370
+"619",619,2017,"Crimes Against the Person","Sexual Violation","Other","F","Unknown","12 to 17",169
+"620",620,2023,"Crimes Against the Person","Sexual Violation","N/A","U","Unknown","<12",457
+"621",621,2017,"Crimes Against the Person","Robbery","N/A","U","Unknown","35 to 44",266
+"622",622,2018,"Crimes Against the Person","Other","Assault Peace Officer","U","Youth","55 to 64",46
+"623",623,2018,"Crimes Against the Person","Robbery","Assault Peace Officer","U","Adult","12 to 17",407
+"624",624,2021,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Adult","25 to 34",222
+"625",625,2017,"Crimes Against the Person","Other","N/A","M","Unknown","45 to 54",473
+"626",626,2022,"Crimes Against the Person","Assault","Other","F","Youth","25 to 34",374
+"627",627,2021,"Crimes Against the Person","Other","Assault Resist Arrest","F","Youth","45 to 54",457
+"628",628,2019,"Crimes Against the Person","Other","Assault Peace Officer","M","Child","55 to 64",157
+"629",629,2014,"Crimes Against the Person","Sexual Violation","N/A","M","Child","55 to 64",385
+"630",630,2018,"Crimes Against the Person","Robbery","Other","M","Adult","35 to 44",41
+"631",631,2016,"Crimes Against the Person","Robbery","N/A","U","Adult","18 to 24",317
+"632",632,2016,"Crimes Against the Person","Other","Assault Peace Officer","F","Child","35 to 44",367
+"633",633,2020,"Crimes Against the Person","Assault","N/A","M","Adult","25 to 34",117
+"634",634,2015,"Crimes Against the Person","Sexual Violation","Other","F","Adult","25 to 34",212
+"635",635,2020,"Crimes Against the Person","Sexual Violation","Other","M","Unknown","45 to 54",316
+"636",636,2014,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Adult","45 to 54",491
+"637",637,2014,"Crimes Against the Person","Other","Assault Peace Officer","U","Unknown","45 to 54",138
+"638",638,2015,"Crimes Against the Person","Robbery","Other","U","Youth","25 to 34",255
+"639",639,2015,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Youth","12 to 17",494
+"640",640,2019,"Crimes Against the Person","Assault","Other","U","Youth","18 to 24",325
+"641",641,2021,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Adult","12 to 17",372
+"642",642,2017,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Unknown","35 to 44",236
+"643",643,2017,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Child","35 to 44",26
+"644",644,2018,"Crimes Against the Person","Sexual Violation","Other","U","Youth","65+",380
+"645",645,2021,"Crimes Against the Person","Robbery","N/A","M","Unknown","Unknown",219
+"646",646,2023,"Crimes Against the Person","Assault","Other","M","Child","<12",104
+"647",647,2019,"Crimes Against the Person","Robbery","Other","M","Unknown","55 to 64",290
+"648",648,2023,"Crimes Against the Person","Robbery","Other","M","Child","35 to 44",262
+"649",649,2017,"Crimes Against the Person","Robbery","Other","F","Adult","12 to 17",94
+"650",650,2019,"Crimes Against the Person","Other","Assault Resist Arrest","U","Adult","Unknown",127
+"651",651,2020,"Crimes Against the Person","Assault","Other","F","Unknown","55 to 64",428
+"652",652,2021,"Crimes Against the Person","Assault","Other","M","Unknown","12 to 17",1
+"653",653,2018,"Crimes Against the Person","Other","N/A","U","Unknown","65+",185
+"654",654,2019,"Crimes Against the Person","Assault","Other","M","Youth","18 to 24",230
+"655",655,2020,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Unknown","18 to 24",351
+"656",656,2018,"Crimes Against the Person","Sexual Violation","Other","U","Unknown","35 to 44",91
+"657",657,2022,"Crimes Against the Person","Assault","Other","F","Youth","<12",99
+"658",658,2017,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Adult","25 to 34",370
+"659",659,2015,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Unknown","12 to 17",469
+"660",660,2021,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Child","25 to 34",280
+"661",661,2023,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Youth","12 to 17",117
+"662",662,2023,"Crimes Against the Person","Robbery","Assault Peace Officer","U","Adult","25 to 34",43
+"663",663,2015,"Crimes Against the Person","Other","Other","M","Unknown","18 to 24",106
+"664",664,2014,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Youth","55 to 64",36
+"665",665,2018,"Crimes Against the Person","Assault","N/A","F","Child","65+",34
+"666",666,2015,"Crimes Against the Person","Assault","N/A","U","Unknown","Unknown",146
+"667",667,2014,"Crimes Against the Person","Assault","Other","F","Adult","25 to 34",117
+"668",668,2021,"Crimes Against the Person","Robbery","N/A","F","Youth","<12",37
+"669",669,2017,"Crimes Against the Person","Robbery","Other","F","Child","25 to 34",155
+"670",670,2015,"Crimes Against the Person","Other","Other","U","Unknown","12 to 17",89
+"671",671,2016,"Crimes Against the Person","Other","Assault Resist Arrest","U","Youth","55 to 64",274
+"672",672,2017,"Crimes Against the Person","Other","Assault Peace Officer","U","Child","25 to 34",149
+"673",673,2023,"Crimes Against the Person","Robbery","N/A","M","Adult","25 to 34",411
+"674",674,2017,"Crimes Against the Person","Assault","Other","M","Unknown","<12",153
+"675",675,2015,"Crimes Against the Person","Sexual Violation","Other","M","Child","45 to 54",251
+"676",676,2015,"Crimes Against the Person","Other","Assault Resist Arrest","U","Child","18 to 24",60
+"677",677,2020,"Crimes Against the Person","Other","Assault Peace Officer","F","Adult","65+",65
+"678",678,2020,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Youth","65+",213
+"679",679,2022,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Youth","35 to 44",151
+"680",680,2014,"Crimes Against the Person","Robbery","Other","U","Child","25 to 34",85
+"681",681,2016,"Crimes Against the Person","Robbery","N/A","M","Youth","<12",34
+"682",682,2022,"Crimes Against the Person","Assault","Assault Peace Officer","M","Adult","Unknown",174
+"683",683,2017,"Crimes Against the Person","Other","Assault Peace Officer","M","Youth","<12",291
+"684",684,2018,"Crimes Against the Person","Other","Assault Resist Arrest","U","Youth","55 to 64",248
+"685",685,2015,"Crimes Against the Person","Other","Other","M","Child","25 to 34",423
+"686",686,2016,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Unknown","35 to 44",391
+"687",687,2014,"Crimes Against the Person","Assault","N/A","M","Child","25 to 34",494
+"688",688,2021,"Crimes Against the Person","Sexual Violation","N/A","M","Youth","<12",375
+"689",689,2016,"Crimes Against the Person","Other","Assault Peace Officer","M","Unknown","35 to 44",339
+"690",690,2016,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Unknown","55 to 64",171
+"691",691,2015,"Crimes Against the Person","Sexual Violation","N/A","F","Unknown","Unknown",35
+"692",692,2022,"Crimes Against the Person","Assault","N/A","M","Unknown","Unknown",283
+"693",693,2020,"Crimes Against the Person","Assault","Other","F","Youth","<12",486
+"694",694,2021,"Crimes Against the Person","Other","N/A","U","Unknown","18 to 24",355
+"695",695,2020,"Crimes Against the Person","Sexual Violation","Other","M","Child","65+",317
+"696",696,2021,"Crimes Against the Person","Sexual Violation","Other","F","Youth","18 to 24",75
+"697",697,2015,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Youth","Unknown",80
+"698",698,2015,"Crimes Against the Person","Sexual Violation","Other","F","Adult","18 to 24",222
+"699",699,2021,"Crimes Against the Person","Sexual Violation","N/A","M","Unknown","35 to 44",243
+"700",700,2018,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Adult","45 to 54",279
+"701",701,2016,"Crimes Against the Person","Other","N/A","F","Unknown","Unknown",115
+"702",702,2015,"Crimes Against the Person","Assault","N/A","M","Child","Unknown",469
+"703",703,2018,"Crimes Against the Person","Other","N/A","U","Child","<12",117
+"704",704,2021,"Crimes Against the Person","Other","Assault Peace Officer","F","Unknown","55 to 64",464
+"705",705,2023,"Crimes Against the Person","Robbery","N/A","U","Unknown","Unknown",36
+"706",706,2014,"Crimes Against the Person","Sexual Violation","Other","M","Child","55 to 64",384
+"707",707,2017,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Unknown","55 to 64",342
+"708",708,2019,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Adult","65+",324
+"709",709,2015,"Crimes Against the Person","Other","Assault Peace Officer","M","Unknown","25 to 34",306
+"710",710,2015,"Crimes Against the Person","Assault","Assault Peace Officer","F","Unknown","Unknown",307
+"711",711,2022,"Crimes Against the Person","Assault","N/A","U","Adult","35 to 44",286
+"712",712,2022,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Adult","18 to 24",324
+"713",713,2019,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Youth","45 to 54",254
+"714",714,2014,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Adult","45 to 54",319
+"715",715,2022,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Youth","65+",163
+"716",716,2017,"Crimes Against the Person","Assault","Other","F","Youth","65+",19
+"717",717,2022,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Child","25 to 34",82
+"718",718,2019,"Crimes Against the Person","Other","N/A","M","Youth","25 to 34",68
+"719",719,2022,"Crimes Against the Person","Assault","Assault Peace Officer","M","Child","45 to 54",299
+"720",720,2021,"Crimes Against the Person","Other","Assault Resist Arrest","U","Adult","65+",55
+"721",721,2016,"Crimes Against the Person","Other","Assault Resist Arrest","U","Unknown","Unknown",53
+"722",722,2022,"Crimes Against the Person","Sexual Violation","N/A","M","Adult","25 to 34",458
+"723",723,2016,"Crimes Against the Person","Assault","Other","M","Unknown","35 to 44",439
+"724",724,2014,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Child","25 to 34",339
+"725",725,2022,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Unknown","<12",260
+"726",726,2017,"Crimes Against the Person","Assault","N/A","F","Unknown","35 to 44",395
+"727",727,2023,"Crimes Against the Person","Assault","Assault Peace Officer","M","Adult","Unknown",233
+"728",728,2018,"Crimes Against the Person","Other","Assault Peace Officer","F","Child","12 to 17",178
+"729",729,2015,"Crimes Against the Person","Assault","Assault Peace Officer","M","Adult","Unknown",489
+"730",730,2016,"Crimes Against the Person","Assault","Assault Peace Officer","M","Adult","18 to 24",255
+"731",731,2020,"Crimes Against the Person","Assault","Other","F","Unknown","12 to 17",28
+"732",732,2018,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Adult","18 to 24",475
+"733",733,2015,"Crimes Against the Person","Assault","Assault Peace Officer","U","Adult","45 to 54",172
+"734",734,2015,"Crimes Against the Person","Other","Assault Peace Officer","M","Youth","25 to 34",308
+"735",735,2019,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Unknown","25 to 34",408
+"736",736,2023,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Adult","12 to 17",88
+"737",737,2017,"Crimes Against the Person","Assault","Assault Peace Officer","M","Child","65+",15
+"738",738,2015,"Crimes Against the Person","Robbery","Other","F","Adult","35 to 44",14
+"739",739,2019,"Crimes Against the Person","Sexual Violation","N/A","M","Youth","55 to 64",450
+"740",740,2023,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Youth","<12",125
+"741",741,2021,"Crimes Against the Person","Other","Assault Resist Arrest","F","Adult","<12",52
+"742",742,2018,"Crimes Against the Person","Assault","Assault Peace Officer","F","Child","35 to 44",101
+"743",743,2014,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Child","<12",452
+"744",744,2017,"Crimes Against the Person","Robbery","Other","F","Unknown","25 to 34",296
+"745",745,2015,"Crimes Against the Person","Assault","Other","F","Unknown","<12",46
+"746",746,2019,"Crimes Against the Person","Robbery","N/A","U","Youth","45 to 54",73
+"747",747,2015,"Crimes Against the Person","Other","N/A","U","Adult","<12",347
+"748",748,2021,"Crimes Against the Person","Robbery","Other","M","Adult","Unknown",44
+"749",749,2021,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Youth","<12",142
+"750",750,2017,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Child","Unknown",353
+"751",751,2020,"Crimes Against the Person","Assault","Assault Peace Officer","F","Child","45 to 54",252
+"752",752,2014,"Crimes Against the Person","Other","N/A","M","Adult","<12",244
+"753",753,2020,"Crimes Against the Person","Assault","Assault Peace Officer","U","Youth","12 to 17",298
+"754",754,2015,"Crimes Against the Person","Sexual Violation","Other","U","Youth","55 to 64",33
+"755",755,2019,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Adult","35 to 44",171
+"756",756,2014,"Crimes Against the Person","Assault","N/A","U","Youth","35 to 44",174
+"757",757,2017,"Crimes Against the Person","Other","Assault Peace Officer","U","Child","65+",87
+"758",758,2015,"Crimes Against the Person","Sexual Violation","N/A","F","Child","55 to 64",12
+"759",759,2019,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Unknown","Unknown",113
+"760",760,2020,"Crimes Against the Person","Other","N/A","F","Adult","12 to 17",188
+"761",761,2022,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Youth","18 to 24",362
+"762",762,2015,"Crimes Against the Person","Other","Assault Peace Officer","F","Unknown","Unknown",7
+"763",763,2019,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Youth","18 to 24",468
+"764",764,2020,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Child","45 to 54",198
+"765",765,2019,"Crimes Against the Person","Other","N/A","F","Child","12 to 17",4
+"766",766,2015,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Unknown","Unknown",290
+"767",767,2017,"Crimes Against the Person","Sexual Violation","Other","F","Youth","Unknown",287
+"768",768,2020,"Crimes Against the Person","Assault","Assault Peace Officer","U","Youth","55 to 64",307
+"769",769,2015,"Crimes Against the Person","Assault","N/A","M","Adult","45 to 54",144
+"770",770,2019,"Crimes Against the Person","Other","N/A","F","Adult","35 to 44",125
+"771",771,2017,"Crimes Against the Person","Sexual Violation","N/A","U","Adult","18 to 24",65
+"772",772,2019,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Youth","65+",7
+"773",773,2018,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Adult","65+",248
+"774",774,2020,"Crimes Against the Person","Other","Assault Resist Arrest","M","Youth","25 to 34",110
+"775",775,2022,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Youth","55 to 64",50
+"776",776,2014,"Crimes Against the Person","Assault","Assault Peace Officer","F","Child","55 to 64",288
+"777",777,2023,"Crimes Against the Person","Assault","N/A","M","Youth","18 to 24",388
+"778",778,2014,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Child","<12",248
+"779",779,2021,"Crimes Against the Person","Robbery","Other","U","Child","45 to 54",376
+"780",780,2018,"Crimes Against the Person","Other","Assault Resist Arrest","M","Adult","Unknown",95
+"781",781,2021,"Crimes Against the Person","Assault","Assault Peace Officer","U","Adult","45 to 54",232
+"782",782,2019,"Crimes Against the Person","Assault","Assault Peace Officer","F","Youth","Unknown",403
+"783",783,2014,"Crimes Against the Person","Assault","N/A","U","Youth","18 to 24",470
+"784",784,2014,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Child","65+",353
+"785",785,2021,"Crimes Against the Person","Other","Assault Resist Arrest","U","Youth","35 to 44",500
+"786",786,2022,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Youth","55 to 64",169
+"787",787,2018,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Child","12 to 17",7
+"788",788,2020,"Crimes Against the Person","Other","Other","M","Youth","35 to 44",254
+"789",789,2016,"Crimes Against the Person","Robbery","Assault Peace Officer","F","Child","18 to 24",159
+"790",790,2018,"Crimes Against the Person","Assault","Assault Peace Officer","F","Adult","Unknown",455
+"791",791,2017,"Crimes Against the Person","Other","N/A","U","Unknown","55 to 64",191
+"792",792,2021,"Crimes Against the Person","Robbery","N/A","M","Unknown","45 to 54",236
+"793",793,2020,"Crimes Against the Person","Sexual Violation","N/A","U","Unknown","65+",239
+"794",794,2019,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Unknown","55 to 64",342
+"795",795,2017,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Youth","45 to 54",159
+"796",796,2020,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Unknown","<12",424
+"797",797,2016,"Crimes Against the Person","Assault","Assault Peace Officer","F","Unknown","45 to 54",423
+"798",798,2019,"Crimes Against the Person","Assault","Assault Peace Officer","M","Child","18 to 24",202
+"799",799,2018,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Unknown","25 to 34",63
+"800",800,2019,"Crimes Against the Person","Robbery","Assault Resist Arrest","F","Child","Unknown",143
+"801",801,2015,"Crimes Against the Person","Sexual Violation","Other","F","Unknown","18 to 24",86
+"802",802,2021,"Crimes Against the Person","Other","Assault Peace Officer","M","Unknown","55 to 64",313
+"803",803,2019,"Crimes Against the Person","Other","Assault Resist Arrest","F","Child","12 to 17",205
+"804",804,2015,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Unknown","12 to 17",340
+"805",805,2023,"Crimes Against the Person","Robbery","Other","U","Adult","<12",42
+"806",806,2016,"Crimes Against the Person","Other","Assault Peace Officer","F","Adult","25 to 34",388
+"807",807,2015,"Crimes Against the Person","Other","Assault Resist Arrest","M","Adult","65+",151
+"808",808,2022,"Crimes Against the Person","Sexual Violation","Other","U","Adult","12 to 17",346
+"809",809,2015,"Crimes Against the Person","Other","Assault Resist Arrest","F","Unknown","55 to 64",180
+"810",810,2018,"Crimes Against the Person","Other","N/A","F","Unknown","18 to 24",496
+"811",811,2015,"Crimes Against the Person","Sexual Violation","N/A","U","Youth","45 to 54",174
+"812",812,2018,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Adult","35 to 44",380
+"813",813,2017,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Unknown","25 to 34",428
+"814",814,2016,"Crimes Against the Person","Assault","Other","F","Unknown","65+",13
+"815",815,2017,"Crimes Against the Person","Assault","N/A","F","Child","18 to 24",495
+"816",816,2022,"Crimes Against the Person","Other","Assault Resist Arrest","U","Adult","55 to 64",152
+"817",817,2021,"Crimes Against the Person","Sexual Violation","Other","U","Unknown","35 to 44",66
+"818",818,2023,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Adult","<12",490
+"819",819,2017,"Crimes Against the Person","Other","N/A","U","Youth","35 to 44",116
+"820",820,2022,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Youth","45 to 54",203
+"821",821,2023,"Crimes Against the Person","Assault","N/A","F","Youth","Unknown",394
+"822",822,2020,"Crimes Against the Person","Sexual Violation","Other","M","Child","25 to 34",382
+"823",823,2014,"Crimes Against the Person","Assault","N/A","U","Unknown","55 to 64",317
+"824",824,2021,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Unknown","35 to 44",352
+"825",825,2016,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Youth","12 to 17",338
+"826",826,2016,"Crimes Against the Person","Assault","Assault Peace Officer","U","Youth","Unknown",79
+"827",827,2022,"Crimes Against the Person","Sexual Violation","Other","M","Youth","<12",291
+"828",828,2015,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Unknown","<12",429
+"829",829,2021,"Crimes Against the Person","Other","Assault Peace Officer","F","Adult","12 to 17",230
+"830",830,2021,"Crimes Against the Person","Assault","Assault Peace Officer","M","Adult","45 to 54",429
+"831",831,2021,"Crimes Against the Person","Assault","Other","U","Youth","55 to 64",228
+"832",832,2018,"Crimes Against the Person","Robbery","Other","M","Youth","55 to 64",371
+"833",833,2017,"Crimes Against the Person","Robbery","Other","U","Youth","65+",196
+"834",834,2021,"Crimes Against the Person","Sexual Violation","Other","U","Adult","12 to 17",25
+"835",835,2018,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Child","25 to 34",399
+"836",836,2016,"Crimes Against the Person","Other","Assault Resist Arrest","U","Child","55 to 64",383
+"837",837,2022,"Crimes Against the Person","Other","Assault Peace Officer","M","Unknown","55 to 64",303
+"838",838,2021,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Unknown","55 to 64",28
+"839",839,2017,"Crimes Against the Person","Other","N/A","U","Youth","18 to 24",103
+"840",840,2022,"Crimes Against the Person","Sexual Violation","Other","M","Youth","25 to 34",118
+"841",841,2015,"Crimes Against the Person","Sexual Violation","Other","U","Adult","18 to 24",391
+"842",842,2022,"Crimes Against the Person","Sexual Violation","N/A","U","Adult","Unknown",186
+"843",843,2018,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Child","18 to 24",500
+"844",844,2016,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Youth","65+",313
+"845",845,2018,"Crimes Against the Person","Sexual Violation","N/A","U","Adult","12 to 17",392
+"846",846,2014,"Crimes Against the Person","Robbery","Other","M","Adult","45 to 54",3
+"847",847,2019,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Unknown","25 to 34",332
+"848",848,2019,"Crimes Against the Person","Sexual Violation","Other","U","Youth","Unknown",293
+"849",849,2017,"Crimes Against the Person","Sexual Violation","N/A","F","Unknown","12 to 17",26
+"850",850,2023,"Crimes Against the Person","Sexual Violation","Other","U","Youth","35 to 44",454
+"851",851,2020,"Crimes Against the Person","Assault","Other","U","Youth","18 to 24",165
+"852",852,2019,"Crimes Against the Person","Robbery","Assault Peace Officer","U","Child","65+",250
+"853",853,2018,"Crimes Against the Person","Other","Other","U","Unknown","65+",7
+"854",854,2022,"Crimes Against the Person","Other","N/A","U","Unknown","25 to 34",314
+"855",855,2022,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Adult","Unknown",303
+"856",856,2017,"Crimes Against the Person","Assault","N/A","F","Adult","35 to 44",57
+"857",857,2021,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Adult","25 to 34",243
+"858",858,2020,"Crimes Against the Person","Other","N/A","U","Child","Unknown",95
+"859",859,2017,"Crimes Against the Person","Assault","Other","M","Adult","65+",420
+"860",860,2019,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Unknown","Unknown",262
+"861",861,2022,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Child","Unknown",42
+"862",862,2017,"Crimes Against the Person","Robbery","N/A","M","Youth","<12",177
+"863",863,2022,"Crimes Against the Person","Robbery","Other","F","Youth","18 to 24",469
+"864",864,2021,"Crimes Against the Person","Other","Other","M","Unknown","Unknown",256
+"865",865,2017,"Crimes Against the Person","Assault","N/A","F","Unknown","Unknown",60
+"866",866,2017,"Crimes Against the Person","Other","Assault Resist Arrest","M","Child","55 to 64",198
+"867",867,2014,"Crimes Against the Person","Robbery","Other","U","Unknown","12 to 17",49
+"868",868,2020,"Crimes Against the Person","Assault","N/A","F","Child","12 to 17",359
+"869",869,2016,"Crimes Against the Person","Assault","Other","U","Unknown","18 to 24",175
+"870",870,2017,"Crimes Against the Person","Sexual Violation","Other","U","Unknown","<12",174
+"871",871,2017,"Crimes Against the Person","Other","Assault Resist Arrest","F","Unknown","Unknown",39
+"872",872,2014,"Crimes Against the Person","Robbery","N/A","U","Child","25 to 34",80
+"873",873,2023,"Crimes Against the Person","Robbery","N/A","U","Adult","25 to 34",44
+"874",874,2016,"Crimes Against the Person","Sexual Violation","N/A","M","Unknown","65+",369
+"875",875,2023,"Crimes Against the Person","Sexual Violation","Other","F","Youth","55 to 64",298
+"876",876,2017,"Crimes Against the Person","Assault","Other","U","Unknown","Unknown",369
+"877",877,2022,"Crimes Against the Person","Other","Assault Resist Arrest","F","Youth","Unknown",316
+"878",878,2020,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Child","12 to 17",497
+"879",879,2020,"Crimes Against the Person","Assault","N/A","F","Adult","Unknown",375
+"880",880,2020,"Crimes Against the Person","Assault","Assault Peace Officer","F","Adult","<12",454
+"881",881,2021,"Crimes Against the Person","Robbery","Other","M","Youth","18 to 24",491
+"882",882,2016,"Crimes Against the Person","Assault","Other","F","Unknown","Unknown",155
+"883",883,2016,"Crimes Against the Person","Other","Other","F","Adult","18 to 24",178
+"884",884,2019,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Unknown","Unknown",470
+"885",885,2021,"Crimes Against the Person","Other","N/A","M","Unknown","35 to 44",422
+"886",886,2017,"Crimes Against the Person","Robbery","N/A","F","Unknown","12 to 17",345
+"887",887,2020,"Crimes Against the Person","Other","Assault Peace Officer","M","Youth","18 to 24",499
+"888",888,2023,"Crimes Against the Person","Assault","Assault Peace Officer","F","Youth","35 to 44",497
+"889",889,2015,"Crimes Against the Person","Robbery","Other","M","Child","55 to 64",90
+"890",890,2014,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Child","18 to 24",456
+"891",891,2023,"Crimes Against the Person","Assault","Assault Resist Arrest","M","Youth","12 to 17",141
+"892",892,2022,"Crimes Against the Person","Sexual Violation","Other","F","Adult","65+",304
+"893",893,2020,"Crimes Against the Person","Assault","Other","M","Youth","65+",62
+"894",894,2021,"Crimes Against the Person","Robbery","N/A","M","Adult","65+",387
+"895",895,2019,"Crimes Against the Person","Sexual Violation","Other","M","Child","18 to 24",258
+"896",896,2021,"Crimes Against the Person","Other","Assault Peace Officer","M","Unknown","Unknown",35
+"897",897,2018,"Crimes Against the Person","Sexual Violation","N/A","M","Youth","Unknown",90
+"898",898,2016,"Crimes Against the Person","Other","Assault Peace Officer","M","Child","Unknown",137
+"899",899,2020,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Child","Unknown",29
+"900",900,2022,"Crimes Against the Person","Assault","Assault Peace Officer","F","Youth","65+",319
+"901",901,2020,"Crimes Against the Person","Assault","Other","U","Child","65+",465
+"902",902,2015,"Crimes Against the Person","Assault","Other","F","Child","55 to 64",290
+"903",903,2022,"Crimes Against the Person","Other","Assault Peace Officer","U","Youth","55 to 64",215
+"904",904,2018,"Crimes Against the Person","Sexual Violation","N/A","M","Unknown","12 to 17",362
+"905",905,2015,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Youth","25 to 34",242
+"906",906,2021,"Crimes Against the Person","Robbery","Other","F","Unknown","25 to 34",407
+"907",907,2021,"Crimes Against the Person","Assault","Assault Peace Officer","U","Child","45 to 54",184
+"908",908,2022,"Crimes Against the Person","Other","N/A","U","Unknown","Unknown",203
+"909",909,2015,"Crimes Against the Person","Assault","Assault Resist Arrest","U","Child","65+",185
+"910",910,2023,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Child","Unknown",256
+"911",911,2019,"Crimes Against the Person","Other","Assault Resist Arrest","F","Unknown","35 to 44",9
+"912",912,2020,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Youth","12 to 17",173
+"913",913,2019,"Crimes Against the Person","Assault","Assault Resist Arrest","F","Adult","12 to 17",77
+"914",914,2014,"Crimes Against the Person","Other","Assault Resist Arrest","U","Adult","Unknown",287
+"915",915,2018,"Crimes Against the Person","Assault","N/A","F","Adult","25 to 34",459
+"916",916,2022,"Crimes Against the Person","Other","Other","F","Unknown","55 to 64",234
+"917",917,2017,"Crimes Against the Person","Robbery","Other","U","Youth","35 to 44",413
+"918",918,2023,"Crimes Against the Person","Other","Other","F","Youth","12 to 17",227
+"919",919,2015,"Crimes Against the Person","Assault","Assault Peace Officer","M","Adult","45 to 54",15
+"920",920,2022,"Crimes Against the Person","Other","N/A","M","Unknown","45 to 54",234
+"921",921,2021,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Child","55 to 64",104
+"922",922,2021,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Youth","65+",343
+"923",923,2018,"Crimes Against the Person","Other","Other","U","Adult","12 to 17",475
+"924",924,2017,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Adult","55 to 64",232
+"925",925,2017,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","F","Youth","18 to 24",121
+"926",926,2023,"Crimes Against the Person","Robbery","N/A","M","Child","45 to 54",106
+"927",927,2022,"Crimes Against the Person","Assault","Other","M","Adult","25 to 34",122
+"928",928,2015,"Crimes Against the Person","Sexual Violation","N/A","F","Youth","<12",167
+"929",929,2022,"Crimes Against the Person","Sexual Violation","N/A","F","Child","45 to 54",223
+"930",930,2022,"Crimes Against the Person","Assault","Other","U","Adult","65+",18
+"931",931,2015,"Crimes Against the Person","Other","Assault Peace Officer","M","Adult","65+",358
+"932",932,2020,"Crimes Against the Person","Assault","N/A","U","Adult","45 to 54",379
+"933",933,2015,"Crimes Against the Person","Robbery","Assault Resist Arrest","M","Adult","18 to 24",297
+"934",934,2016,"Crimes Against the Person","Other","Assault Peace Officer","F","Youth","25 to 34",321
+"935",935,2018,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Youth","12 to 17",221
+"936",936,2021,"Crimes Against the Person","Other","N/A","F","Adult","Unknown",499
+"937",937,2018,"Crimes Against the Person","Robbery","N/A","F","Child","45 to 54",404
+"938",938,2023,"Crimes Against the Person","Other","Other","M","Adult","12 to 17",280
+"939",939,2015,"Crimes Against the Person","Other","Assault Resist Arrest","M","Youth","25 to 34",205
+"940",940,2018,"Crimes Against the Person","Assault","N/A","M","Unknown","18 to 24",188
+"941",941,2023,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Adult","35 to 44",316
+"942",942,2022,"Crimes Against the Person","Assault","N/A","M","Youth","65+",38
+"943",943,2015,"Crimes Against the Person","Sexual Violation","N/A","M","Adult","<12",260
+"944",944,2019,"Crimes Against the Person","Sexual Violation","N/A","F","Unknown","35 to 44",220
+"945",945,2017,"Crimes Against the Person","Sexual Violation","Other","U","Child","12 to 17",138
+"946",946,2020,"Crimes Against the Person","Sexual Violation","N/A","F","Child","18 to 24",248
+"947",947,2020,"Crimes Against the Person","Other","N/A","U","Youth","65+",290
+"948",948,2014,"Crimes Against the Person","Robbery","Assault Peace Officer","U","Child","18 to 24",426
+"949",949,2021,"Crimes Against the Person","Assault","Assault Peace Officer","U","Adult","Unknown",339
+"950",950,2017,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Child","25 to 34",242
+"951",951,2014,"Crimes Against the Person","Assault","N/A","U","Child","45 to 54",217
+"952",952,2020,"Crimes Against the Person","Other","Assault Resist Arrest","U","Unknown","25 to 34",14
+"953",953,2019,"Crimes Against the Person","Assault","N/A","M","Youth","<12",442
+"954",954,2023,"Crimes Against the Person","Sexual Violation","N/A","M","Unknown","25 to 34",282
+"955",955,2023,"Crimes Against the Person","Assault","Other","M","Youth","<12",398
+"956",956,2016,"Crimes Against the Person","Assault","N/A","M","Adult","65+",286
+"957",957,2018,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","M","Adult","12 to 17",166
+"958",958,2020,"Crimes Against the Person","Other","Assault Resist Arrest","F","Youth","45 to 54",432
+"959",959,2019,"Crimes Against the Person","Other","N/A","U","Child","Unknown",217
+"960",960,2022,"Crimes Against the Person","Robbery","Other","U","Child","Unknown",257
+"961",961,2021,"Crimes Against the Person","Other","Assault Peace Officer","F","Youth","65+",478
+"962",962,2015,"Crimes Against the Person","Assault","Other","U","Child","25 to 34",422
+"963",963,2016,"Crimes Against the Person","Other","Assault Resist Arrest","F","Unknown","55 to 64",91
+"964",964,2017,"Crimes Against the Person","Robbery","Other","F","Adult","55 to 64",353
+"965",965,2016,"Crimes Against the Person","Other","Assault Peace Officer","U","Youth","55 to 64",319
+"966",966,2015,"Crimes Against the Person","Other","Other","F","Youth","35 to 44",177
+"967",967,2020,"Crimes Against the Person","Sexual Violation","Other","M","Child","35 to 44",359
+"968",968,2014,"Crimes Against the Person","Assault","N/A","U","Child","<12",500
+"969",969,2015,"Crimes Against the Person","Robbery","Other","U","Youth","55 to 64",441
+"970",970,2018,"Crimes Against the Person","Other","N/A","M","Child","35 to 44",212
+"971",971,2015,"Crimes Against the Person","Robbery","N/A","M","Unknown","35 to 44",393
+"972",972,2020,"Crimes Against the Person","Other","Assault Resist Arrest","F","Unknown","18 to 24",40
+"973",973,2019,"Crimes Against the Person","Other","Other","M","Child","45 to 54",471
+"974",974,2014,"Crimes Against the Person","Assault","Other","M","Adult","25 to 34",127
+"975",975,2018,"Crimes Against the Person","Assault","N/A","M","Adult","25 to 34",212
+"976",976,2015,"Crimes Against the Person","Other","Assault Resist Arrest","F","Unknown","35 to 44",479
+"977",977,2015,"Crimes Against the Person","Other","Other","U","Adult","Unknown",64
+"978",978,2019,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","F","Adult","Unknown",4
+"979",979,2021,"Crimes Against the Person","Other","N/A","U","Child","<12",225
+"980",980,2016,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Youth","<12",240
+"981",981,2018,"Crimes Against the Person","Robbery","Other","U","Youth","Unknown",118
+"982",982,2023,"Crimes Against the Person","Sexual Violation","N/A","M","Adult","<12",163
+"983",983,2014,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Adult","35 to 44",387
+"984",984,2021,"Crimes Against the Person","Assault","N/A","U","Unknown","35 to 44",59
+"985",985,2014,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Unknown","55 to 64",156
+"986",986,2016,"Crimes Against the Person","Sexual Violation","N/A","U","Child","Unknown",320
+"987",987,2020,"Crimes Against the Person","Robbery","N/A","M","Unknown","65+",348
+"988",988,2014,"Crimes Against the Person","Other","Assault Resist Arrest","F","Child","45 to 54",173
+"989",989,2023,"Crimes Against the Person","Robbery","Assault Resist Arrest","U","Adult","18 to 24",235
+"990",990,2021,"Crimes Against the Person","Other","Assault Peace Officer","M","Adult","45 to 54",288
+"991",991,2020,"Crimes Against the Person","Sexual Violation","Other","F","Adult","Unknown",401
+"992",992,2015,"Crimes Against the Person","Other","Assault Resist Arrest","F","Child","18 to 24",49
+"993",993,2015,"Crimes Against the Person","Assault","N/A","F","Child","35 to 44",298
+"994",994,2014,"Crimes Against the Person","Assault","Assault Peace Officer","U","Youth","55 to 64",168
+"995",995,2016,"Crimes Against the Person","Sexual Violation","Assault Resist Arrest","U","Unknown","12 to 17",123
+"996",996,2014,"Crimes Against the Person","Other","Assault Peace Officer","F","Adult","65+",307
+"997",997,2014,"Crimes Against the Person","Assault","Other","F","Child","25 to 34",363
+"998",998,2022,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","M","Youth","65+",258
+"999",999,2021,"Crimes Against the Person","Robbery","Assault Peace Officer","M","Unknown","12 to 17",255
+"1000",1000,2022,"Crimes Against the Person","Sexual Violation","Assault Peace Officer","U","Adult","Unknown",273

@@ -1,20 +1,1245 @@
-width,length,flying_time
-70,111,1.83
-57,127,2.32
-59,92,2.05
-70,75,1.1
-62,112,2.32
-68,103.5,0.5
-58,108,1.7
-79,114,0.86
-56,186,3.42
-87,68,1.37
-50,118,2.68
-49,186,1.83
-61,116,1.32
-60,127,1
-56,184,2.79
-69,124,1.4
-60,95,1.12
-44,137,1.28
-63,125,1.35
+report_year,crime_subtype,sex,age_group,count
+2019,Assault,Female,Adult,4
+2019,Assault,Female,Adult,2
+2023,Assault,Unsure,Adult,7
+2023,Assault,Female,Adult,490
+2019,Other,Male,Adult,311
+2015,Other,Unsure,Adult,1
+2023,Assault,Unsure,Unknown,7
+2017,Sexual Violation,Male,Adult,6
+2016,Assault,Male,Adult,24
+2015,Other,Male,Child,90
+2021,Assault,Female,Adult,10
+2017,Assault,Female,Unknown,7
+2016,Other,Female,Adult,471
+2014,Robbery,Male,Adult,422
+2017,Assault,Unsure,Unknown,2
+2014,Sexual Violation,Female,Unknown,23
+2019,Robbery,Unsure,Adult,5
+2019,Assault,Male,Adult,37
+2021,Assault,Female,Adult,1
+2022,Assault,Male,Adult,8
+2016,Assault,Male,Child,519
+2018,Other,Male,Adult,482
+2018,Assault,Female,Adult,2166
+2015,Other,Female,Adult,858
+2014,Assault,Female,Unknown,94
+2023,Assault,Male,Adult,17
+2023,Sexual Violation,Female,Adult,597
+2016,Assault,Unsure,Adult,1
+2020,Sexual Violation,Male,Youth,58
+2023,Assault,Male,Child,435
+2014,Assault,Male,Adult,1
+2019,Assault,Male,Youth,713
+2019,Robbery,Male,Adult,177
+2018,Sexual Violation,Male,Youth,76
+2017,Other,Female,Unknown,134
+2016,Assault,Male,Unknown,67
+2016,Sexual Violation,Female,Child,207
+2017,Robbery,Female,Adult,215
+2023,Robbery,Female,Adult,104
+2015,Robbery,Female,Adult,108
+2018,Assault,Female,Adult,7
+2022,Other,Female,Unknown,39
+2017,Assault,Female,Adult,10
+2023,Sexual Violation,Female,Adult,63
+2016,Sexual Violation,Male,Child,86
+2015,Robbery,Female,Child,8
+2021,Assault,Male,Adult,31
+2018,Assault,Female,Adult,13
+2021,Assault,Unsure,Adult,2
+2021,Sexual Violation,Male,Adult,65
+2018,Assault,Male,Adult,46
+2022,Assault,Male,Adult,12
+2022,Assault,Female,Adult,24
+2022,Sexual Violation,Male,Adult,61
+2017,Sexual Violation,Male,Adult,32
+2017,Robbery,Male,Child,19
+2017,Assault,Female,Unknown,91
+2018,Sexual Violation,Unsure,Unknown,5
+2023,Other,Unsure,Youth,1
+2015,Assault,Female,Adult,4
+2022,Assault,Unsure,Unknown,7
+2020,Other,Unsure,Adult,1
+2015,Assault,Male,Adult,31
+2018,Assault,Unsure,Adult,1
+2023,Assault,Male,Adult,1253
+2018,Assault,Female,Adult,2
+2021,Robbery,Male,Adult,299
+2018,Sexual Violation,Male,Adult,33
+2023,Robbery,Male,Adult,83
+2018,Assault,Male,Adult,53
+2020,Assault,Male,Adult,1060
+2019,Robbery,Male,Child,12
+2022,Sexual Violation,Female,Adult,75
+2014,Assault,Female,Adult,1276
+2017,Sexual Violation,Female,Unknown,31
+2020,Other,Female,Child,51
+2018,Assault,Male,Adult,1972
+2015,Sexual Violation,Female,Adult,363
+2018,Assault,Female,Unknown,8
+2018,Assault,Male,Youth,592
+2019,Robbery,Male,Adult,85
+2023,Assault,Male,Adult,13
+2020,Robbery,Female,Youth,49
+2014,Assault,Female,Adult,1
+2020,Assault,Male,Adult,3
+2016,Robbery,Male,Child,17
+2021,Assault,Unsure,Adult,3
+2016,Robbery,Male,Adult,222
+2022,Other,Male,Youth,148
+2014,Other,Male,Adult,378
+2022,Assault,Male,Youth,591
+2022,Other,Female,Adult,286
+2020,Other,Unsure,Adult,1
+2021,Assault,Male,Adult,1561
+2022,Assault,Female,Adult,2
+2019,Assault,Male,Adult,6
+2018,Assault,Female,Adult,2
+2018,Robbery,Female,Adult,58
+2022,Assault,Male,Adult,61
+2015,Sexual Violation,Male,Adult,14
+2017,Assault,Unsure,Adult,1
+2015,Other,Female,Adult,184
+2023,Assault,Male,Adult,2482
+2022,Assault,Male,Adult,1
+2022,Robbery,Male,Child,13
+2023,Sexual Violation,Female,Unknown,18
+2023,Assault,Female,Adult,1
+2022,Robbery,Female,Child,6
+2015,Assault,Male,Adult,1255
+2015,Robbery,Female,Youth,66
+2019,Sexual Violation,Male,Adult,17
+2023,Assault,Male,Adult,30
+2019,Assault,Male,Adult,69
+2016,Assault,Male,Adult,1
+2014,Other,Female,Adult,398
+2017,Robbery,Female,Youth,95
+2021,Robbery,Female,Adult,66
+2014,Assault,Female,Unknown,55
+2023,Assault,Female,Adult,1427
+2016,Robbery,Female,Adult,185
+2022,Sexual Violation,Male,Adult,6
+2021,Assault,Male,Adult,3
+2020,Assault,Female,Unknown,12
+2014,Robbery,Male,Child,29
+2020,Assault,Unsure,Unknown,55
+2022,Assault,Male,Unknown,31
+2016,Sexual Violation,Male,Adult,11
+2014,Robbery,Female,Adult,120
+2017,Assault,Male,Adult,1315
+2016,Robbery,Male,Adult,63
+2020,Other,Female,Adult,127
+2014,Sexual Violation,Male,Unknown,4
+2023,Assault,Male,Adult,92
+2017,Robbery,Female,Adult,199
+2016,Assault,Unsure,Adult,1
+2016,Sexual Violation,Male,Adult,2
+2017,Other,Male,Adult,370
+2021,Sexual Violation,Female,Adult,51
+2018,Assault,Female,Unknown,134
+2016,Other,Male,Adult,214
+2019,Sexual Violation,Male,Adult,61
+2018,Robbery,Male,Child,7
+2023,Assault,Unsure,Unknown,4
+2014,Sexual Violation,Female,Youth,400
+2022,Other,Female,Adult,151
+2018,Robbery,Male,Adult,462
+2017,Robbery,Male,Adult,180
+2015,Other,Male,Adult,139
+2021,Sexual Violation,Female,Adult,458
+2015,Assault,Female,Adult,10
+2014,Robbery,Female,Unknown,16
+2018,Sexual Violation,Female,Unknown,37
+2020,Robbery,Male,Adult,204
+2014,Assault,Male,Adult,1
+2023,Sexual Violation,Male,Unknown,3
+2019,Assault,Male,Adult,7
+2014,Other,Female,Adult,83
+2014,Assault,Male,Adult,2
+2020,Robbery,Male,Youth,235
+2022,Assault,Female,Unknown,77
+2019,Assault,Male,Adult,91
+2020,Sexual Violation,Female,Adult,51
+2014,Assault,Female,Adult,22
+2016,Robbery,Unsure,Youth,2
+2019,Sexual Violation,Female,Child,235
+2020,Assault,Male,Unknown,40
+2022,Assault,Male,Unknown,80
+2017,Other,Male,Unknown,146
+2019,Sexual Violation,Female,Adult,451
+2015,Sexual Violation,Male,Child,100
+2017,Assault,Female,Adult,17
+2020,Assault,Female,Youth,346
+2015,Assault,Male,Adult,34
+2018,Robbery,Male,Adult,89
+2022,Sexual Violation,Female,Adult,531
+2020,Sexual Violation,Female,Youth,390
+2016,Sexual Violation,Unsure,Youth,1
+2016,Robbery,Male,Youth,699
+2016,Assault,Female,Child,260
+2019,Other,Female,Adult,79
+2020,Robbery,Male,Unknown,22
+2022,Other,Male,Adult,81
+2022,Assault,Male,Adult,1211
+2021,Other,Unsure,Adult,2
+2015,Sexual Violation,Male,Adult,15
+2021,Assault,Male,Unknown,44
+2017,Robbery,Male,Unknown,38
+2023,Robbery,Female,Adult,46
+2023,Assault,Male,Adult,2
+2016,Sexual Violation,Female,Adult,513
+2020,Assault,Male,Adult,1362
+2016,Assault,Male,Adult,42
+2014,Assault,Female,Adult,1
+2016,Assault,Male,Adult,759
+2014,Other,Female,Adult,689
+2016,Other,Female,Adult,424
+2023,Assault,Male,Unknown,1
+2023,Assault,Female,Adult,2
+2018,Assault,Male,Adult,439
+2022,Other,Male,Child,64
+2023,Robbery,Male,Child,20
+2018,Assault,Male,Adult,1363
+2019,Robbery,Unsure,Adult,1
+2021,Other,Female,Adult,149
+2016,Sexual Violation,Male,Unknown,11
+2017,Assault,Female,Unknown,92
+2017,Robbery,Unsure,Unknown,1
+2020,Assault,Female,Adult,1269
+2019,Assault,Female,Adult,10
+2014,Assault,Male,Unknown,281
+2014,Robbery,Male,Adult,86
+2023,Assault,Female,Adult,2
+2016,Assault,Female,Unknown,74
+2016,Assault,Male,Unknown,1
+2021,Assault,Female,Adult,4
+2022,Assault,Female,Adult,1
+2017,Assault,Male,Adult,4
+2021,Assault,Unsure,Adult,6
+2021,Robbery,Female,Adult,136
+2022,Robbery,Male,Adult,92
+2020,Robbery,Male,Adult,84
+2014,Assault,Male,Adult,19
+2015,Assault,Female,Unknown,73
+2023,Robbery,Female,Youth,50
+2018,Robbery,Female,Adult,85
+2018,Assault,Male,Unknown,69
+2020,Assault,Male,Adult,7
+2020,Sexual Violation,Unsure,Adult,1
+2023,Robbery,Male,Adult,135
+2021,Robbery,Male,Adult,334
+2016,Assault,Female,Adult,1
+2017,Sexual Violation,Male,Adult,62
+2021,Assault,Female,Adult,590
+2015,Assault,Female,Adult,7
+2022,Robbery,Female,Adult,60
+2014,Other,Male,Adult,412
+2019,Assault,Female,Adult,448
+2022,Sexual Violation,Male,Youth,93
+2022,Assault,Female,Adult,1026
+2022,Other,Male,Unknown,79
+2018,Assault,Male,Unknown,332
+2019,Assault,Male,Adult,1567
+2019,Assault,Female,Adult,1
+2015,Robbery,Unsure,Adult,1
+2019,Sexual Violation,Male,Adult,22
+2019,Assault,Male,Adult,2111
+2018,Assault,Female,Adult,396
+2015,Assault,Male,Adult,1
+2015,Assault,Female,Adult,2
+2017,Assault,Male,Child,488
+2016,Assault,Male,Adult,13
+2017,Sexual Violation,Male,Unknown,3
+2022,Assault,Unsure,Adult,1
+2020,Assault,Male,Adult,506
+2017,Other,Female,Adult,203
+2020,Robbery,Female,Unknown,9
+2015,Other,Female,Adult,534
+2014,Assault,Male,Adult,14
+2018,Other,Male,Child,65
+2017,Sexual Violation,Female,Adult,112
+2017,Sexual Violation,Female,Youth,467
+2022,Assault,Female,Adult,2
+2017,Assault,Unsure,Unknown,23
+2018,Assault,Female,Adult,492
+2018,Assault,Female,Adult,1
+2017,Sexual Violation,Female,Child,217
+2018,Other,Unsure,Adult,2
+2019,Assault,Female,Unknown,74
+2023,Assault,Female,Adult,2602
+2016,Assault,Male,Adult,2
+2019,Robbery,Female,Adult,154
+2016,Assault,Female,Adult,11
+2022,Robbery,Female,Unknown,13
+2015,Sexual Violation,Male,Adult,41
+2020,Assault,Male,Unknown,291
+2018,Other,Male,Adult,96
+2019,Other,Female,Adult,164
+2023,Assault,Unsure,Adult,1
+2021,Assault,Male,Adult,42
+2023,Robbery,Female,Adult,59
+2022,Assault,Female,Adult,631
+2020,Assault,Female,Adult,2
+2020,Assault,Male,Adult,57
+2022,Assault,Unsure,Youth,2
+2016,Robbery,Female,Adult,97
+2020,Assault,Male,Adult,19
+2014,Assault,Male,Adult,285
+2023,Assault,Female,Adult,10
+2015,Other,Male,Adult,440
+2014,Robbery,Unsure,Unknown,1
+2023,Robbery,Female,Adult,126
+2021,Assault,Male,Adult,49
+2018,Robbery,Female,Unknown,10
+2014,Sexual Violation,Male,Youth,70
+2019,Other,Male,Adult,199
+2023,Other,Unsure,Unknown,6
+2021,Other,Female,Adult,280
+2016,Assault,Male,Unknown,180
+2021,Assault,Male,Adult,516
+2014,Other,Female,Adult,474
+2017,Sexual Violation,Female,Adult,513
+2021,Other,Male,Youth,97
+2023,Assault,Male,Adult,52
+2021,Assault,Unsure,Unknown,3
+2016,Sexual Violation,Male,Adult,25
+2018,Other,Female,Adult,168
+2020,Sexual Violation,Female,Adult,446
+2015,Assault,Unsure,Adult,1
+2015,Assault,Female,Adult,2
+2016,Robbery,Male,Adult,162
+2020,Robbery,Female,Child,4
+2021,Assault,Male,Adult,3
+2014,Assault,Male,Adult,1
+2014,Other,Female,Adult,497
+2019,Assault,Female,Adult,13
+2019,Assault,Female,Adult,11
+2019,Assault,Male,Adult,15
+2019,Robbery,Female,Adult,102
+2023,Assault,Unsure,Adult,1
+2017,Assault,Male,Adult,3
+2016,Other,Unsure,Adult,2
+2022,Sexual Violation,Female,Adult,155
+2019,Assault,Male,Adult,985
+2019,Assault,Unsure,Child,2
+2017,Assault,Female,Adult,7
+2023,Robbery,Male,Adult,221
+2021,Assault,Female,Adult,4
+2017,Other,Male,Adult,387
+2018,Other,Female,Unknown,107
+2015,Sexual Violation,Male,Adult,31
+2017,Assault,Male,Adult,7
+2015,Assault,Male,Unknown,211
+2022,Robbery,Unsure,Adult,1
+2017,Assault,Female,Adult,15
+2019,Assault,Female,Unknown,1
+2022,Robbery,Male,Adult,149
+2021,Robbery,Male,Adult,130
+2017,Other,Male,Child,61
+2023,Assault,Male,Adult,3
+2015,Robbery,Male,Adult,631
+2015,Assault,Female,Adult,1
+2020,Sexual Violation,Male,Adult,3
+2020,Assault,Male,Adult,1001
+2014,Assault,Female,Adult,1905
+2023,Sexual Violation,Unsure,Adult,1
+2021,Assault,Male,Child,301
+2018,Sexual Violation,Female,Adult,51
+2019,Robbery,Male,Adult,472
+2022,Robbery,Female,Adult,147
+2019,Other,Female,Adult,358
+2021,Other,Male,Adult,332
+2021,Other,Female,Youth,127
+2023,Sexual Violation,Male,Adult,12
+2014,Sexual Violation,Male,Adult,2
+2019,Assault,Male,Adult,30
+2017,Assault,Male,Adult,51
+2021,Sexual Violation,Female,Youth,508
+2016,Sexual Violation,Female,Adult,181
+2023,Sexual Violation,Unsure,Youth,1
+2023,Assault,Female,Adult,3
+2019,Assault,Male,Adult,4
+2019,Assault,Female,Adult,1
+2022,Assault,Female,Adult,3
+2016,Other,Male,Unknown,172
+2020,Robbery,Female,Adult,46
+2019,Assault,Female,Adult,1
+2018,Robbery,Female,Adult,116
+2022,Robbery,Female,Youth,58
+2016,Assault,Female,Adult,5
+2017,Assault,Male,Adult,1316
+2019,Sexual Violation,Unsure,Youth,2
+2015,Assault,Unsure,Unknown,1
+2016,Assault,Female,Adult,14
+2015,Robbery,Male,Youth,615
+2020,Assault,Female,Adult,1
+2021,Assault,Unsure,Unknown,1
+2015,Robbery,Female,Adult,135
+2019,Assault,Female,Adult,1
+2020,Assault,Unsure,Adult,2
+2022,Sexual Violation,Female,Adult,62
+2017,Robbery,Male,Youth,750
+2021,Sexual Violation,Male,Adult,46
+2021,Other,Female,Unknown,45
+2023,Assault,Male,Adult,1106
+2022,Sexual Violation,Male,Adult,57
+2017,Robbery,Female,Child,6
+2022,Assault,Female,Adult,11
+2022,Other,Male,Adult,168
+2017,Assault,Female,Adult,4
+2016,Assault,Male,Adult,33
+2021,Assault,Unsure,Adult,5
+2023,Assault,Male,Adult,79
+2015,Robbery,Male,Child,16
+2018,Other,Male,Adult,321
+2018,Assault,Male,Unknown,25
+2020,Assault,Female,Unknown,5
+2020,Assault,Female,Adult,2234
+2015,Robbery,Male,Unknown,29
+2020,Sexual Violation,Male,Adult,15
+2018,Assault,Unsure,Unknown,1
+2023,Other,Male,Youth,219
+2022,Robbery,Male,Youth,255
+2015,Assault,Male,Adult,335
+2016,Assault,Male,Adult,1326
+2020,Assault,Male,Adult,9
+2022,Robbery,Male,Adult,227
+2021,Assault,Male,Adult,15
+2021,Robbery,Male,Youth,198
+2014,Assault,Female,Adult,1
+2019,Robbery,Female,Adult,89
+2019,Assault,Male,Unknown,224
+2019,Assault,Male,Adult,1
+2015,Sexual Violation,Female,Adult,33
+2018,Other,Female,Child,79
+2016,Other,Unsure,Adult,1
+2015,Sexual Violation,Female,Adult,180
+2022,Other,Female,Child,53
+2020,Assault,Male,Adult,25
+2015,Other,Male,Unknown,170
+2018,Other,Male,Adult,388
+2022,Sexual Violation,Female,Youth,576
+2014,Assault,Male,Adult,35
+2023,Robbery,Female,Adult,94
+2015,Assault,Male,Adult,1215
+2017,Robbery,Male,Adult,243
+2019,Assault,Female,Unknown,128
+2018,Robbery,Male,Adult,715
+2021,Assault,Female,Adult,1
+2022,Robbery,Unsure,Adult,1
+2015,Assault,Male,Unknown,86
+2020,Assault,Unsure,Adult,2
+2015,Robbery,Female,Adult,78
+2018,Sexual Violation,Female,Child,215
+2022,Assault,Male,Child,334
+2023,Assault,Female,Adult,5
+2022,Assault,Unsure,Unknown,22
+2015,Assault,Female,Adult,438
+2022,Sexual Violation,Male,Unknown,7
+2015,Assault,Female,Adult,4
+2016,Sexual Violation,Male,Adult,6
+2020,Assault,Male,Unknown,183
+2017,Robbery,Female,Adult,117
+2019,Sexual Violation,Female,Adult,130
+2019,Assault,Unsure,Adult,1
+2020,Assault,Unsure,Unknown,2
+2016,Assault,Unsure,Adult,1
+2016,Assault,Male,Adult,1250
+2021,Assault,Male,Adult,29
+2015,Sexual Violation,Female,Adult,35
+2023,Other,Male,Child,78
+2023,Assault,Male,Adult,37
+2021,Robbery,Female,Adult,65
+2015,Sexual Violation,Female,Adult,113
+2023,Sexual Violation,Female,Adult,134
+2019,Sexual Violation,Male,Child,114
+2018,Sexual Violation,Male,Adult,53
+2016,Assault,Male,Adult,1857
+2016,Assault,Unsure,Adult,2
+2020,Robbery,Male,Adult,138
+2017,Assault,Male,Adult,52
+2021,Assault,Male,Adult,3
+2019,Other,Male,Adult,82
+2017,Assault,Male,Adult,27
+2015,Assault,Male,Adult,1
+2015,Robbery,Female,Unknown,10
+2019,Assault,Female,Adult,2
+2019,Assault,Male,Adult,1360
+2018,Assault,Male,Adult,4
+2016,Robbery,Female,Adult,41
+2020,Assault,Male,Adult,1925
+2015,Assault,Male,Adult,10
+2018,Assault,Female,Adult,1512
+2022,Assault,Unsure,Adult,4
+2023,Assault,Female,Adult,2
+2014,Assault,Male,Adult,33
+2014,Other,Female,Unknown,83
+2021,Assault,Female,Adult,1
+2016,Assault,Female,Adult,366
+2018,Assault,Unsure,Adult,2
+2015,Assault,Female,Unknown,1
+2022,Other,Unsure,Adult,2
+2022,Assault,Female,Unknown,15
+2017,Robbery,Female,Adult,81
+2016,Assault,Female,Unknown,9
+2019,Assault,Male,Unknown,331
+2020,Assault,Male,Adult,1
+2022,Other,Male,Adult,319
+2016,Assault,Male,Adult,5
+2020,Other,Female,Adult,68
+2015,Sexual Violation,Male,Unknown,22
+2021,Other,Male,Adult,199
+2019,Assault,Female,Adult,2300
+2020,Other,Female,Youth,128
+2019,Sexual Violation,Male,Adult,6
+2021,Assault,Female,Adult,1000
+2015,Robbery,Male,Adult,94
+2020,Assault,Male,Child,287
+2021,Assault,Female,Adult,1
+2023,Assault,Male,Adult,1750
+2019,Robbery,Female,Youth,56
+2014,Assault,Male,Adult,1183
+2019,Assault,Female,Child,309
+2020,Robbery,Female,Adult,138
+2016,Assault,Female,Youth,575
+2021,Other,Male,Child,44
+2015,Assault,Female,Unknown,74
+2019,Assault,Unsure,Unknown,11
+2023,Other,Female,Adult,485
+2016,Sexual Violation,Female,Adult,100
+2021,Other,Male,Adult,315
+2020,Sexual Violation,Female,Child,207
+2020,Sexual Violation,Male,Adult,28
+2017,Assault,Male,Adult,393
+2020,Assault,Male,Adult,2
+2018,Assault,Male,Adult,77
+2016,Assault,Male,Adult,5
+2018,Sexual Violation,Unsure,Child,1
+2022,Sexual Violation,Unsure,Adult,1
+2021,Assault,Male,Unknown,133
+2018,Other,Male,Unknown,148
+2016,Other,Unsure,Unknown,1
+2017,Assault,Female,Adult,369
+2017,Assault,Male,Unknown,301
+2020,Other,Unsure,Adult,4
+2021,Assault,Male,Adult,44
+2014,Other,Female,Adult,194
+2022,Assault,Female,Child,238
+2014,Robbery,Female,Adult,61
+2017,Assault,Female,Adult,1419
+2014,Sexual Violation,Female,Child,243
+2014,Sexual Violation,Male,Adult,13
+2018,Assault,Male,Adult,2
+2023,Assault,Male,Adult,47
+2023,Assault,Male,Adult,8
+2022,Other,Unsure,Adult,1
+2018,Assault,Male,Adult,6
+2019,Assault,Unsure,Adult,2
+2016,Sexual Violation,Male,Adult,15
+2016,Robbery,Female,Unknown,11
+2016,Other,Male,Youth,147
+2019,Other,Female,Adult,275
+2014,Other,Male,Adult,219
+2019,Assault,Unsure,Unknown,2
+2017,Other,Female,Adult,101
+2017,Robbery,Male,Adult,72
+2020,Assault,Male,Adult,16
+2020,Assault,Unsure,Adult,2
+2023,Assault,Male,Adult,18
+2016,Sexual Violation,Female,Unknown,15
+2023,Sexual Violation,Male,Adult,37
+2021,Other,Male,Unknown,60
+2016,Assault,Male,Adult,1316
+2014,Robbery,Male,Adult,113
+2019,Other,Male,Adult,381
+2017,Sexual Violation,Male,Youth,63
+2021,Assault,Male,Adult,4
+2018,Other,Female,Adult,106
+2019,Assault,Unsure,Adult,1
+2014,Assault,Male,Unknown,23
+2023,Sexual Violation,Male,Adult,65
+2023,Assault,Female,Adult,1861
+2019,Other,Female,Adult,570
+2018,Sexual Violation,Male,Adult,4
+2020,Robbery,Female,Adult,118
+2018,Assault,Male,Adult,5
+2019,Assault,Male,Adult,477
+2016,Assault,Male,Adult,1
+2020,Other,Female,Adult,247
+2016,Assault,Male,Youth,1
+2015,Sexual Violation,Female,Unknown,22
+2018,Sexual Violation,Female,Adult,636
+2014,Assault,Male,Unknown,213
+2016,Assault,Male,Adult,49
+2021,Assault,Male,Unknown,4
+2017,Assault,Male,Adult,31
+2015,Assault,Male,Adult,19
+2021,Robbery,Female,Child,2
+2019,Other,Male,Adult,280
+2023,Assault,Male,Unknown,42
+2023,Robbery,Female,Unknown,9
+2019,Sexual Violation,Unsure,Child,1
+2017,Other,Unsure,Unknown,9
+2017,Assault,Female,Adult,4
+2015,Assault,Female,Unknown,4
+2019,Robbery,Male,Adult,198
+2021,Sexual Violation,Male,Youth,62
+2014,Assault,Female,Adult,3
+2015,Assault,Female,Adult,1458
+2020,Robbery,Male,Adult,190
+2022,Sexual Violation,Unsure,Child,2
+2017,Assault,Male,Adult,76
+2015,Sexual Violation,Female,Child,234
+2015,Assault,Male,Adult,3
+2017,Assault,Male,Adult,32
+2021,Other,Male,Adult,178
+2017,Other,Female,Adult,347
+2022,Assault,Male,Adult,9
+2021,Assault,Male,Adult,5
+2016,Assault,Male,Unknown,26
+2021,Assault,Female,Unknown,15
+2021,Assault,Female,Unknown,4
+2014,Robbery,Female,Adult,70
+2017,Other,Unsure,Adult,3
+2016,Sexual Violation,Female,Adult,417
+2014,Robbery,Male,Adult,215
+2017,Assault,Female,Adult,1376
+2015,Robbery,Male,Adult,153
+2020,Sexual Violation,Female,Unknown,16
+2020,Assault,Unsure,Unknown,11
+2020,Sexual Violation,Male,Adult,15
+2019,Other,Unsure,Unknown,12
+2015,Assault,Male,Adult,1
+2014,Sexual Violation,Female,Adult,42
+2020,Other,Unsure,Child,1
+2022,Assault,Female,Youth,620
+2018,Assault,Male,Adult,15
+2023,Robbery,Female,Adult,156
+2016,Assault,Female,Unknown,111
+2015,Other,Male,Adult,296
+2016,Robbery,Female,Child,6
+2017,Assault,Unsure,Adult,1
+2018,Robbery,Male,Adult,248
+2020,Assault,Male,Adult,14
+2020,Assault,Female,Adult,6
+2021,Assault,Female,Youth,388
+2018,Other,Female,Adult,483
+2022,Assault,Female,Adult,4
+2020,Assault,Female,Child,204
+2022,Robbery,Male,Unknown,23
+2017,Assault,Male,Unknown,4
+2022,Assault,Male,Adult,15
+2018,Assault,Female,Adult,3
+2020,Assault,Female,Adult,962
+2017,Sexual Violation,Male,Adult,27
+2023,Other,Male,Unknown,71
+2021,Other,Unsure,Youth,1
+2018,Sexual Violation,Male,Unknown,10
+2018,Assault,Female,Adult,4
+2018,Assault,Female,Youth,532
+2015,Assault,Male,Adult,1696
+2019,Other,Male,Youth,169
+2016,Assault,Female,Adult,1499
+2022,Assault,Male,Adult,53
+2015,Sexual Violation,Female,Adult,473
+2023,Other,Male,Adult,366
+2017,Assault,Male,Adult,3
+2021,Assault,Female,Unknown,76
+2016,Other,Female,Adult,185
+2021,Assault,Female,Adult,4
+2018,Assault,Male,Adult,20
+2022,Assault,Female,Adult,456
+2014,Assault,Female,Adult,921
+2021,Assault,Male,Unknown,243
+2017,Assault,Female,Adult,1
+2017,Other,Female,Adult,493
+2023,Sexual Violation,Unsure,Adult,1
+2022,Assault,Unsure,Unknown,2
+2019,Robbery,Male,Unknown,38
+2018,Sexual Violation,Male,Child,81
+2022,Sexual Violation,Unsure,Youth,2
+2023,Other,Male,Adult,422
+2016,Other,Male,Adult,404
+2020,Assault,Male,Adult,6
+2021,Sexual Violation,Female,Adult,235
+2019,Robbery,Female,Adult,108
+2023,Other,Female,Adult,167
+2021,Robbery,Male,Child,12
+2023,Other,Female,Adult,343
+2023,Assault,Male,Adult,1492
+2020,Assault,Female,Adult,7
+2017,Sexual Violation,Male,Child,74
+2021,Sexual Violation,Unsure,Adult,1
+2021,Robbery,Female,Adult,82
+2015,Assault,Unsure,Adult,1
+2020,Assault,Male,Adult,1
+2018,Assault,Male,Child,446
+2014,Assault,Male,Adult,1667
+2014,Assault,Male,Adult,5
+2022,Other,Female,Adult,398
+2014,Assault,Female,Adult,1464
+2022,Robbery,Female,Adult,100
+2018,Assault,Female,Adult,16
+2018,Robbery,Male,Adult,158
+2016,Assault,Female,Adult,938
+2022,Assault,Male,Adult,31
+2019,Assault,Male,Adult,5
+2022,Sexual Violation,Female,Adult,534
+2020,Assault,Female,Adult,15
+2020,Sexual Violation,Male,Adult,7
+2017,Robbery,Unsure,Youth,1
+2023,Sexual Violation,Female,Child,219
+2015,Other,Female,Adult,410
+2014,Assault,Female,Adult,4
+2016,Other,Male,Child,74
+2021,Assault,Male,Adult,1100
+2017,Sexual Violation,Female,Adult,55
+2020,Assault,Female,Adult,2
+2014,Robbery,Male,Youth,659
+2014,Assault,Female,Youth,525
+2018,Assault,Female,Adult,18
+2015,Other,Female,Adult,124
+2019,Assault,Male,Adult,1325
+2016,Robbery,Male,Adult,434
+2015,Assault,Female,Adult,2
+2018,Assault,Female,Adult,7
+2022,Assault,Unsure,Adult,2
+2015,Assault,Male,Adult,2
+2014,Assault,Male,Adult,1
+2015,Assault,Male,Adult,3
+2022,Other,Male,Adult,307
+2020,Assault,Unsure,Adult,3
+2018,Assault,Female,Adult,1039
+2017,Robbery,Male,Adult,493
+2023,Sexual Violation,Female,Adult,277
+2020,Other,Male,Adult,176
+2023,Other,Unsure,Adult,1
+2023,Other,Female,Youth,237
+2022,Other,Female,Youth,189
+2018,Assault,Male,Adult,14
+2019,Assault,Male,Adult,37
+2023,Sexual Violation,Female,Adult,59
+2015,Other,Male,Adult,463
+2015,Assault,Male,Adult,25
+2017,Assault,Female,Adult,489
+2021,Assault,Male,Adult,29
+2019,Sexual Violation,Female,Youth,538
+2020,Other,Male,Adult,263
+2015,Assault,Male,Unknown,21
+2022,Other,Female,Adult,522
+2022,Assault,Male,Adult,21
+2014,Sexual Violation,Female,Adult,34
+2023,Assault,Male,Adult,1
+2023,Sexual Violation,Male,Adult,17
+2018,Sexual Violation,Unsure,Adult,1
+2019,Robbery,Female,Child,6
+2019,Assault,Female,Adult,1407
+2020,Assault,Female,Adult,1
+2017,Other,Male,Adult,484
+2022,Assault,Female,Adult,16
+2018,Other,Unsure,Adult,1
+2016,Robbery,Female,Adult,114
+2019,Assault,Female,Adult,1649
+2014,Assault,Female,Unknown,3
+2023,Assault,Female,Adult,7
+2021,Sexual Violation,Female,Adult,124
+2021,Other,Female,Adult,513
+2014,Robbery,Female,Child,6
+2020,Other,Male,Child,74
+2023,Assault,Female,Unknown,7
+2017,Assault,Male,Unknown,75
+2022,Sexual Violation,Male,Child,82
+2023,Other,Female,Adult,102
+2023,Assault,Unsure,Adult,1
+2017,Assault,Female,Child,290
+2016,Robbery,Male,Adult,258
+2014,Robbery,Female,Adult,195
+2018,Sexual Violation,Female,Adult,126
+2014,Other,Female,Youth,215
+2023,Robbery,Male,Adult,428
+2017,Assault,Male,Adult,1937
+2017,Assault,Female,Adult,5
+2019,Robbery,Unsure,Adult,3
+2020,Sexual Violation,Female,Adult,104
+2014,Assault,Male,Adult,2
+2016,Assault,Male,Adult,79
+2023,Assault,Female,Adult,2
+2021,Assault,Male,Unknown,35
+2021,Assault,Male,Adult,7
+2019,Sexual Violation,Female,Unknown,22
+2023,Assault,Female,Unknown,53
+2023,Assault,Male,Youth,677
+2017,Other,Female,Youth,230
+2021,Assault,Female,Adult,1581
+2017,Assault,Male,Unknown,213
+2017,Assault,Male,Adult,4
+2023,Assault,Female,Adult,4
+2014,Assault,Female,Adult,388
+2014,Assault,Male,Adult,1057
+2015,Robbery,Female,Adult,175
+2021,Assault,Female,Adult,2366
+2014,Assault,Male,Adult,84
+2017,Other,Unsure,Adult,1
+2020,Assault,Female,Adult,1
+2014,Assault,Male,Unknown,86
+2023,Assault,Female,Adult,17
+2015,Other,Unsure,Unknown,6
+2017,Assault,Female,Adult,3
+2019,Assault,Male,Adult,30
+2019,Robbery,Male,Youth,555
+2017,Assault,Male,Adult,1
+2016,Other,Male,Adult,465
+2023,Assault,Male,Adult,634
+2014,Other,Male,Unknown,117
+2019,Robbery,Female,Adult,183
+2015,Assault,Male,Adult,5
+2022,Other,Unsure,Adult,2
+2016,Other,Female,Unknown,113
+2015,Assault,Male,Adult,26
+2022,Other,Male,Adult,248
+2014,Assault,Female,Adult,5
+2018,Robbery,Male,Unknown,24
+2019,Other,Male,Child,64
+2020,Assault,Unsure,Unknown,1
+2023,Sexual Violation,Male,Youth,112
+2022,Assault,Unsure,Adult,7
+2022,Assault,Male,Adult,595
+2021,Assault,Female,Adult,435
+2020,Other,Female,Adult,342
+2021,Robbery,Male,Unknown,19
+2021,Other,Female,Adult,233
+2016,Other,Male,Adult,278
+2020,Robbery,Male,Adult,380
+2023,Robbery,Unsure,Adult,1
+2019,Assault,Female,Adult,618
+2018,Assault,Male,Adult,1
+2017,Sexual Violation,Female,Adult,416
+2014,Assault,Male,Adult,4
+2017,Sexual Violation,Unsure,Unknown,2
+2021,Robbery,Unsure,Adult,2
+2018,Assault,Female,Adult,1481
+2018,Sexual Violation,Male,Adult,7
+2023,Other,Unsure,Adult,3
+2022,Other,Female,Adult,77
+2020,Other,Male,Adult,222
+2020,Assault,Female,Adult,1579
+2023,Assault,Female,Adult,1121
+2022,Assault,Male,Adult,8
+2019,Robbery,Unsure,Unknown,1
+2023,Robbery,Male,Adult,412
+2014,Robbery,Unsure,Adult,1
+2014,Assault,Female,Child,325
+2022,Sexual Violation,Female,Child,248
+2015,Assault,Male,Adult,1301
+2017,Assault,Female,Adult,2063
+2021,Assault,Male,Adult,4
+2023,Assault,Unsure,Adult,4
+2016,Other,Female,Adult,740
+2020,Assault,Unsure,Youth,1
+2021,Sexual Violation,Female,Unknown,21
+2016,Sexual Violation,Female,Adult,35
+2018,Assault,Female,Unknown,5
+2023,Other,Male,Adult,293
+2020,Assault,Male,Adult,1
+2016,Assault,Female,Adult,1
+2022,Assault,Male,Adult,1312
+2022,Sexual Violation,Unsure,Adult,1
+2017,Assault,Male,Youth,2
+2022,Robbery,Male,Adult,348
+2016,Other,Female,Child,59
+2017,Assault,Male,Adult,2
+2014,Other,Unsure,Unknown,3
+2014,Assault,Male,Adult,21
+2023,Sexual Violation,Female,Youth,551
+2017,Assault,Male,Youth,642
+2016,Assault,Female,Adult,3
+2018,Sexual Violation,Female,Adult,230
+2014,Robbery,Female,Adult,244
+2015,Assault,Female,Adult,1270
+2018,Robbery,Female,Adult,189
+2022,Other,Female,Adult,246
+2023,Other,Female,Adult,289
+2017,Assault,Male,Adult,3
+2019,Assault,Unsure,Unknown,45
+2018,Sexual Violation,Female,Adult,506
+2014,Sexual Violation,Male,Adult,29
+2023,Assault,Female,Child,1
+2019,Robbery,Unsure,Youth,1
+2021,Robbery,Female,Unknown,8
+2022,Assault,Female,Adult,2
+2023,Sexual Violation,Male,Child,81
+2021,Assault,Male,Adult,2086
+2015,Other,Male,Youth,172
+2018,Other,Male,Youth,166
+2019,Robbery,Unsure,Adult,1
+2014,Robbery,Male,Adult,675
+2014,Other,Male,Adult,198
+2018,Assault,Female,Unknown,74
+2016,Assault,Unsure,Adult,1
+2014,Assault,Female,Unknown,13
+2018,Assault,Male,Unknown,247
+2022,Assault,Female,Adult,1401
+2021,Assault,Male,Adult,12
+2015,Other,Female,Adult,575
+2019,Sexual Violation,Female,Adult,562
+2016,Assault,Unsure,Unknown,4
+2016,Assault,Female,Adult,13
+2016,Other,Female,Youth,235
+2017,Other,Male,Adult,292
+2021,Assault,Male,Adult,9
+2018,Sexual Violation,Female,Adult,75
+2022,Assault,Female,Unknown,8
+2015,Other,Female,Youth,260
+2021,Sexual Violation,Female,Adult,59
+2023,Assault,Unsure,Adult,1
+2022,Sexual Violation,Female,Unknown,22
+2022,Assault,Male,Unknown,3
+2021,Sexual Violation,Male,Adult,16
+2022,Sexual Violation,Male,Adult,10
+2015,Other,Male,Adult,259
+2018,Robbery,Female,Adult,197
+2019,Robbery,Female,Adult,61
+2019,Assault,Female,Adult,1
+2020,Other,Male,Adult,383
+2019,Other,Male,Unknown,123
+2021,Other,Male,Adult,277
+2023,Robbery,Female,Child,2
+2022,Assault,Male,Unknown,179
+2017,Assault,Male,Adult,3
+2020,Sexual Violation,Female,Adult,450
+2019,Sexual Violation,Male,Adult,11
+2019,Assault,Female,Adult,1068
+2023,Sexual Violation,Male,Adult,3
+2021,Robbery,Female,Adult,31
+2018,Assault,Male,Adult,4
+2018,Other,Female,Adult,417
+2015,Assault,Female,Adult,3
+2023,Assault,Male,Unknown,310
+2014,Robbery,Male,Unknown,29
+2017,Assault,Male,Adult,76
+2022,Assault,Female,Adult,2531
+2023,Robbery,Male,Unknown,11
+2019,Sexual Violation,Unsure,Unknown,3
+2016,Assault,Male,Adult,3
+2016,Assault,Male,Adult,354
+2023,Sexual Violation,Male,Adult,53
+2016,Sexual Violation,Male,Adult,43
+2020,Sexual Violation,Male,Adult,42
+2017,Robbery,Female,Unknown,10
+2018,Assault,Male,Adult,7
+2015,Other,Male,Adult,485
+2021,Robbery,Female,Youth,35
+2015,Other,Female,Child,64
+2018,Robbery,Male,Adult,250
+2020,Assault,Female,Adult,405
+2022,Assault,Male,Adult,42
+2021,Robbery,Male,Adult,147
+2015,Assault,Female,Adult,16
+2015,Robbery,Female,Adult,61
+2016,Assault,Female,Adult,1311
+2019,Sexual Violation,Female,Adult,262
+2016,Robbery,Unsure,Adult,1
+2017,Assault,Male,Adult,1
+2014,Assault,Female,Adult,1
+2019,Other,Female,Child,68
+2023,Other,Unsure,Adult,3
+2020,Robbery,Female,Adult,65
+2021,Other,Male,Adult,96
+2019,Other,Female,Adult,400
+2021,Assault,Female,Adult,6
+2018,Assault,Male,Adult,1294
+2020,Robbery,Female,Adult,102
+2021,Assault,Unsure,Youth,2
+2021,Other,Female,Adult,72
+2015,Sexual Violation,Female,Youth,410
+2017,Sexual Violation,Female,Adult,200
+2016,Assault,Female,Adult,485
+2016,Other,Male,Adult,94
+2015,Other,Female,Unknown,78
+2017,Assault,Female,Unknown,8
+2021,Assault,Female,Child,247
+2019,Robbery,Male,Adult,692
+2023,Assault,Female,Child,286
+2018,Other,Female,Youth,226
+2022,Assault,Male,Adult,1085
+2017,Robbery,Female,Adult,141
+2014,Other,Male,Youth,164
+2015,Assault,Male,Adult,84
+2015,Other,Unsure,Adult,1
+2018,Robbery,Female,Child,6
+2020,Other,Unsure,Unknown,11
+2020,Assault,Male,Adult,11
+2016,Other,Male,Adult,374
+2018,Assault,Male,Adult,26
+2019,Assault,Male,Adult,1
+2021,Sexual Violation,Unsure,Unknown,4
+2022,Assault,Male,Adult,4
+2016,Robbery,Female,Adult,122
+2018,Assault,Female,Youth,1
+2014,Assault,Female,Adult,1
+2017,Robbery,Male,Adult,259
+2022,Assault,Female,Adult,5
+2023,Assault,Male,Adult,17
+2023,Other,Female,Child,78
+2018,Robbery,Male,Youth,537
+2019,Other,Female,Youth,215
+2014,Assault,Male,Youth,559
+2017,Sexual Violation,Female,Adult,37
+2019,Assault,Female,Unknown,5
+2018,Other,Male,Adult,405
+2015,Assault,Female,Adult,2042
+2021,Sexual Violation,Female,Child,287
+2021,Other,Female,Adult,371
+2020,Assault,Male,Youth,354
+2016,Other,Unsure,Adult,1
+2014,Other,Male,Child,75
+2020,Assault,Female,Adult,4
+2018,Other,Male,Adult,251
+2015,Assault,Male,Unknown,325
+2018,Assault,Male,Adult,4
+2017,Other,Female,Child,76
+2019,Other,Unsure,Adult,1
+2018,Other,Unsure,Adult,2
+2022,Other,Unsure,Adult,1
+2018,Sexual Violation,Unsure,Adult,1
+2021,Assault,Male,Adult,1080
+2020,Other,Unsure,Youth,1
+2020,Sexual Violation,Male,Unknown,9
+2017,Other,Male,Adult,99
+2019,Assault,Female,Adult,1
+2014,Sexual Violation,Female,Adult,477
+2022,Robbery,Male,Adult,384
+2021,Assault,Unsure,Adult,1
+2014,Assault,Male,Child,506
+2020,Assault,Female,Adult,3
+2016,Assault,Female,Adult,1
+2019,Assault,Unsure,Unknown,3
+2020,Sexual Violation,Female,Adult,57
+2023,Robbery,Male,Adult,175
+2021,Assault,Male,Youth,471
+2022,Assault,Male,Adult,1729
+2018,Assault,Male,Adult,1482
+2022,Sexual Violation,Male,Adult,19
+2015,Assault,Female,Youth,510
+2021,Other,Female,Child,35
+2018,Assault,Male,Unknown,1
+2018,Sexual Violation,Male,Adult,54
+2022,Assault,Female,Adult,1
+2014,Robbery,Unsure,Adult,2
+2018,Robbery,Female,Adult,107
+2023,Assault,Female,Adult,15
+2023,Assault,Unsure,Adult,8
+2020,Assault,Female,Adult,8
+2019,Other,Male,Adult,300
+2015,Robbery,Male,Adult,227
+2020,Other,Male,Adult,239
+2021,Assault,Unsure,Unknown,22
+2017,Robbery,Male,Adult,727
+2021,Sexual Violation,Male,Adult,27
+2018,Assault,Unsure,Unknown,30
+2014,Assault,Male,Adult,2
+2017,Sexual Violation,Male,Adult,6
+2016,Assault,Male,Adult,26
+2019,Assault,Female,Adult,18
+2020,Other,Male,Youth,93
+2021,Other,Unsure,Adult,2
+2016,Assault,Female,Adult,2
+2014,Assault,Male,Adult,1141
+2014,Robbery,Female,Youth,70
+2019,Sexual Violation,Female,Adult,59
+2019,Assault,Male,Adult,8
+2016,Other,Unsure,Adult,1
+2021,Sexual Violation,Male,Adult,19
+2020,Assault,Female,Adult,1
+2023,Other,Male,Adult,199
+2019,Assault,Male,Adult,81
+2015,Assault,Male,Child,470
+2023,Robbery,Male,Youth,358
+2016,Sexual Violation,Female,Adult,56
+2017,Assault,Male,Unknown,30
+2023,Assault,Male,Adult,14
+2023,Other,Male,Adult,101
+2020,Assault,Female,Adult,562
+2020,Robbery,Male,Child,4
+2020,Assault,Male,Adult,1
+2014,Sexual Violation,Male,Adult,7
+2023,Assault,Male,Adult,14
+2016,Assault,Male,Adult,4
+2016,Assault,Male,Youth,624
+2021,Robbery,Female,Adult,93
+2021,Assault,Female,Unknown,43
+2021,Other,Unsure,Unknown,6
+2020,Other,Male,Unknown,74
+2016,Robbery,Female,Youth,77
+2023,Assault,Male,Adult,13
+2019,Assault,Male,Unknown,1
+2023,Assault,Female,Youth,690
+2018,Assault,Female,Adult,1
+2016,Assault,Male,Unknown,276
+2017,Assault,Female,Adult,1
+2015,Sexual Violation,Male,Adult,9
+2023,Assault,Female,Adult,7
+2020,Sexual Violation,Unsure,Unknown,2
+2022,Assault,Male,Adult,44
+2016,Robbery,Male,Adult,704
+2016,Robbery,Female,Adult,191
+2019,Assault,Male,Unknown,34
+2016,Assault,Female,Adult,2
+2017,Robbery,Female,Adult,46
+2016,Other,Female,Adult,515
+2021,Assault,Male,Adult,2
+2017,Sexual Violation,Male,Adult,18
+2015,Robbery,Male,Adult,403
+2021,Sexual Violation,Unsure,Child,1
+2021,Other,Unsure,Adult,1
+2015,Assault,Male,Adult,1
+2022,Assault,Unsure,Adult,3
+2014,Assault,Female,Adult,1
+2023,Assault,Female,Adult,2
+2017,Assault,Male,Adult,802
+2021,Assault,Unsure,Unknown,57
+2014,Sexual Violation,Male,Child,106
+2014,Robbery,Female,Adult,138
+2016,Assault,Female,Adult,6
+2018,Assault,Male,Adult,59
+2023,Assault,Male,Adult,5
+2023,Assault,Female,Unknown,9
+2020,Other,Male,Adult,60
+2020,Assault,Male,Unknown,43
+2017,Assault,Male,Adult,4
+2017,Assault,Unsure,Child,10
+2020,Assault,Male,Adult,36
+2018,Robbery,Female,Youth,57
+2022,Sexual Violation,Male,Adult,40
+2020,Sexual Violation,Male,Child,86
+2023,Assault,Female,Adult,725
+2017,Other,Female,Adult,459
+2016,Assault,Unsure,Unknown,2
+2022,Robbery,Female,Adult,203
+2022,Assault,Unsure,Adult,12
+2018,Sexual Violation,Male,Adult,17
+2015,Robbery,Male,Adult,199
+2019,Sexual Violation,Male,Adult,63
+2019,Assault,Female,Adult,2
+2017,Assault,Female,Adult,11
+2014,Assault,Female,Adult,1
+2015,Robbery,Female,Adult,189
+2015,Assault,Male,Adult,3
+2022,Assault,Male,Unknown,268
+2019,Assault,Male,Child,505
+2022,Assault,Male,Adult,2276
+2021,Sexual Violation,Female,Adult,488
+2017,Assault,Male,Adult,1307
+2023,Other,Male,Adult,250
+2018,Other,Female,Adult,344
+2018,Assault,Female,Adult,9
+2019,Assault,Male,Adult,15
+2014,Sexual Violation,Female,Adult,103
+2017,Other,Male,Adult,215
+2022,Robbery,Female,Adult,85
+2016,Assault,Unsure,Adult,1
+2022,Assault,Male,Adult,6
+2020,Assault,Unsure,Adult,7
+2016,Sexual Violation,Female,Youth,433
+2018,Assault,Male,Adult,66
+2018,Assault,Female,Child,308
+2020,Robbery,Male,Adult,447
+2019,Assault,Male,Unknown,62
+2014,Other,Male,Adult,95
+2020,Assault,Male,Unknown,2
+2022,Sexual Violation,Unsure,Unknown,4
+2014,Assault,Male,Adult,612
+2014,Other,Female,Child,68
+2017,Assault,Female,Youth,602
+2020,Assault,Male,Adult,12
+2020,Assault,Female,Unknown,64
+2023,Assault,Male,Unknown,137
+2021,Assault,Female,Adult,2
+2018,Assault,Male,Adult,918
+2018,Assault,Unsure,Adult,1
+2017,Other,Female,Adult,708
+2016,Assault,Female,Adult,11
+2022,Robbery,Female,Adult,101
+2015,Sexual Violation,Male,Adult,4
+2018,Other,Unsure,Unknown,10
+2022,Assault,Female,Unknown,51
+2019,Sexual Violation,Female,Adult,65
+2020,Sexual Violation,Female,Adult,222
+2015,Sexual Violation,Male,Youth,70
+2014,Sexual Violation,Male,Adult,9
+2014,Assault,Male,Adult,14
+2015,Assault,Female,Adult,975
+2019,Robbery,Male,Adult,245
+2020,Other,Female,Adult,481
+2014,Assault,Female,Adult,287
+2022,Assault,Male,Adult,1
+2019,Sexual Violation,Male,Youth,90
+2015,Assault,Female,Adult,305
+2023,Other,Unsure,Adult,1
+2023,Sexual Violation,Female,Adult,516
+2018,Robbery,Unsure,Adult,1
+2019,Assault,Female,Adult,1
+2019,Robbery,Female,Unknown,7
+2022,Robbery,Male,Adult,162
+2015,Assault,Female,Unknown,7
+2016,Assault,Female,Adult,2011
+2015,Assault,Male,Youth,545
+2018,Sexual Violation,Female,Youth,516
+2023,Other,Female,Adult,561
+2022,Sexual Violation,Female,Adult,287
+2016,Sexual Violation,Unsure,Adult,1
+2015,Assault,Female,Child,296
+2016,Assault,Female,Unknown,13
+2020,Other,Female,Unknown,40
+2018,Other,Female,Adult,633
+2019,Assault,Male,Adult,12
+2021,Assault,Female,Adult,16
+2017,Assault,Male,Adult,8
+2020,Robbery,Female,Adult,135
+2021,Robbery,Male,Adult,70
+2021,Assault,Male,Adult,1268
+2021,Sexual Violation,Male,Unknown,5
+2014,Sexual Violation,Female,Adult,154
+2021,Sexual Violation,Male,Child,76
+2014,Other,Male,Adult,356
+2019,Assault,Female,Youth,599
+2017,Assault,Female,Adult,3
+2021,Assault,Female,Adult,6
+2020,Assault,Female,Unknown,73
+2023,Assault,Female,Unknown,72
+2020,Other,Female,Adult,315
+2014,Sexual Violation,Female,Adult,357
+2017,Assault,Female,Adult,999
+2022,Assault,Female,Adult,1747
+2021,Robbery,Male,Adult,125
+2022,Other,Unsure,Unknown,5
+2023,Other,Unsure,Adult,2
+2014,Sexual Violation,Male,Adult,23
+2021,Assault,Female,Adult,1297
+2022,Assault,Male,Adult,11
+2023,Other,Female,Unknown,28
+2023,Assault,Male,Unknown,35
+2019,Assault,Female,Unknown,10
+2023,Robbery,Unsure,Adult,2
+2020,Assault,Male,Adult,39
+2015,Assault,Male,Adult,683
+2021,Sexual Violation,Male,Adult,14
+2020,Assault,Male,Adult,21
+2016,Robbery,Unsure,Adult,1
+2014,Robbery,Male,Adult,224
+2022,Assault,Male,Adult,53
+2020,Assault,Male,Adult,1267
+2015,Assault,Female,Adult,1
+2022,Other,Male,Adult,183
+2023,Assault,Female,Youth,1
+2019,Sexual Violation,Male,Unknown,4
+2017,Other,Male,Youth,173
+2016,Sexual Violation,Male,Youth,48
+2022,Sexual Violation,Unsure,Adult,3
+2019,Other,Female,Unknown,74
+2016,Robbery,Male,Unknown,45
+2016,Other,Female,Adult,102
+2020,Assault,Unsure,Adult,1
+2021,Assault,Female,Adult,3
+2018,Other,Unsure,Adult,1
